@@ -12,6 +12,7 @@ h1, h2 {
     font-family: 'Dancing Script', cursive, sans-serif;
     text-transform: capitalize;
     letter-spacing: 5px;
+    color: #8d4925;
 }
 
 body {
@@ -21,9 +22,30 @@ body {
 }
 #logo {
     margin: 10px 0 0 10px;
-  
-    float: left;  
+    float: left;
+    font-size: 350%;  
 }
+
 a {
     text-decoration: none;
 }
+
+/*navigation links*/
+
+#menu {
+    font-size: 140%;
+    font-family: 'Dancing Script', cursive, sans-serif;
+    color: #8d4925;
+}
+#menu ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    float: right;
+}
+
+#menu li {
+    margin-right: 50px;
+}
+
+
