@@ -1,5 +1,4 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Dancing+Script:wght@700&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Dancing+Script:wght@700&family=Roboto:wght@500&display=swap');
 
 * {
     margin: 0;
@@ -23,7 +22,8 @@ body {
 #logo {
     margin: 10px 0 0 10px;
     float: left;
-    font-size: 350%;  
+    font-size: 350%;
+   
 }
 
 a {
@@ -45,7 +45,29 @@ a {
 }
 
 #menu li {
-    margin-right: 50px;
+    margin: 10px 60px 0 0;
+    
 }
 
+#menu a {
+    color: #8d4925;
+    letter-spacing: 2px;
+    font-size: 115%;
+}
 
+#menu a:hover {
+    opacity: 0.7;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+/* Hero image */
+
+#hero-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/hero-image.jpeg') no-repeat center center;
+    background-size: cover;
+}
