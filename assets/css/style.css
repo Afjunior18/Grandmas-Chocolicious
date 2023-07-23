@@ -228,18 +228,25 @@ a {
 #product-box {
     display: flex;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 100px;
     width: 100%;
-    background-color: blue;
-    height: 400px;
-   
-    
+    height: 350px;
+    position: relative;
 }
 .product-container {
     width: 20%;
     height: 250px;
     background-color: yellow;
     margin-right: 30px;
+}
+
+.title-pages {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    background-color:rgba(237, 222, 207, 0.5);
+    font-size: 150%;
 }
  
 
