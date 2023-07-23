@@ -222,6 +222,25 @@ a {
     height: 100%;
     object-fit: cover;
   }
+
+/*Product Section*/
+
+#product-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    width: 100%;
+    background-color: blue;
+    height: 400px;
+   
+    
+}
+.product-container {
+    width: 20%;
+    height: 250px;
+    background-color: yellow;
+    margin-right: 30px;
+}
  
 
 
