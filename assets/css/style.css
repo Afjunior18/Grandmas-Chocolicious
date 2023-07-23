@@ -29,6 +29,7 @@ header {
     background-color: white;
     display: flex;
     align-items: center;
+    position: fixed;
 }
 
 #logo {
@@ -95,22 +96,12 @@ a {
 }
 
 #hero-text {
-    position: fixed;
-    top: 59.8%;
+    position: absolute;
+    top: 93%;
     width: 100%;
     background-color: rgba(237, 222, 207, 0.7);
     text-align: center;
 }
-
-
-
-/* Hero image and text*/
-
-
-#hero-text, #hero-text h2 {
-    letter-spacing: 3;
-}
-
 
 /* content box section */
 
