@@ -319,7 +319,7 @@ hr {
 
 #contact-location { 
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
     width: 100%;
     height: 600px;
     background-color: yellow;
@@ -333,7 +333,9 @@ hr {
     margin: 50px 20px 50px 0;
 }
 
-
+div iframe {
+    margin-top: 221px;
+}
 
 
 
