@@ -281,7 +281,8 @@ hr {
 
 #about-us-container {
     display: flex;
-    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: 600px;
     background-color: green;
@@ -290,12 +291,19 @@ hr {
 
 #about-us-letter {
     background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-items: center;
     width: 50%;
-
+    height: 500px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 130%;
 }
-#about-us-card {
-    background-color: blue;
-    width: 50%;
+
+#about-us-letter p {
+    margin: 10px 30px;
 }
 
 
