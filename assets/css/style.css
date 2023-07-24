@@ -240,9 +240,8 @@ a {
 }
 
 .title-pages {
-
     background-color:rgba(237, 222, 207, 0.5);
-    font-size: 150%;
+    font-size: 130%;
     text-align: center;
     width: 100%;
     margin-top: 10px;
@@ -278,13 +277,8 @@ hr {
     text-align: center;
 }
 
-#about-us-title {
-    background-color:rgba(237, 222, 207, 0.5);
-    font-size: 150%;
-    text-align: center;
-    width: 100%;
-    margin-top: 10px;
-}
+/* About us section */
+
 
 
  
