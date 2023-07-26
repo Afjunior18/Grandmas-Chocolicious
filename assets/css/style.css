@@ -326,19 +326,13 @@ hr {
 
 #form-contact h2 {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 100px;
 }
 
 #form-contact hr {
     border: 1px solid #8d4925;
     width: 70%;
     margin: 10px 100px
-}
-
-#form-contact hr:last-child {
-    border: 1px solid #8d4925;
-    margin: 20px 170px;
-    width: 50%;
 }
 
 .text-contact {
@@ -348,7 +342,6 @@ hr {
     margin-top: 20px;
     text-align: center;
     font-size: 150%;
-
 }
 
 div iframe {
@@ -360,7 +353,38 @@ div h3 {
 }
 
 #form-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 20px;
     border: 1px solid #8d4925;
-    width: 350px;
-    height: 250px;
+    width: 380px;
+    height: 300px;
+    margin: 0 auto;
+    font-size: 130%;
+}
+
+.form-input {
+    background-color: rgba(237, 222, 207, 0.5);
+    box-shadow: 0 0 10px #8d4925;
+    height: 25px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=submit] {
+    background-color: rgba(237, 222, 207, 0.5);
+    padding: 10px;
+    border-radius: 10%;
+    border: 1px solid #8d4925;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 110%;
+    color: #8d4925;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
