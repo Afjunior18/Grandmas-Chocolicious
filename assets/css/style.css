@@ -324,6 +324,23 @@ hr {
     margin: 50px 20px 50px 0;
 }
 
+#form-contact h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#form-contact hr {
+    border: 1px solid #8d4925;
+    width: 70%;
+    margin: 10px 100px
+}
+
+#form-contact hr:last-child {
+    border: 1px solid #8d4925;
+    margin: 20px 170px;
+    width: 50%;
+}
+
 .text-contact {
     display: flex;
     flex-direction: column;
