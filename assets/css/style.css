@@ -358,3 +358,9 @@ div iframe {
 div h3 {
     color: #8d4925;
 }
+
+#form-box {
+    border: 1px solid #8d4925;
+    width: 350px;
+    height: 250px;
+}
