@@ -1,10 +1,9 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Grandma's Chocolocious
 
-Welcome,
+Welcome to Grandma's Chocolocious!,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Grandma's Chocolocious is a heartwarming website dedicated to an adoring grandmother who is passionate about chocolate and wants to spread love in the form of delicious chocolates. This website aims to bring joy to people's lives through the delightful world of chocolates.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
 
 ## Codeanywhere Reminders
 
