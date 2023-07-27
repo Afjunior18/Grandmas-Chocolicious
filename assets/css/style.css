@@ -561,3 +561,19 @@ input[type=submit]:hover {
         font-family: 'Dancing Script', cursive, sans-serif;
     }
 }
+
+@media screen and (max-width:1240px) {
+    .product-img {
+        width: 200px;
+        height: 180px;
+        margin-right: 30px;
+    }
+}
+
+/* @media screen and (max-width:1240px) {
+    .product-img {
+        width: 200px;
+        height: 180px;
+        margin-right: 30px;
+    }
+} */
