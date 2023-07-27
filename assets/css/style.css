@@ -458,22 +458,45 @@ input[type=submit]:hover {
         flex-wrap: wrap;
         justify-content: center;
         margin-top: 30px;
-        justify-content: centers;
         align-items: center;
     }
 }
 
 /* For screen sizes from 1365px wide and down */
 
-@media screen and (max-width:1420px) {
+@media screen and (max-width:1365px) {
     #product-container {
         display: flex;
         flex-wrap: wrap;
-        width: 65%;
+        width: 55%;
         height: auto;
-        background-color: yellow;
-        margin-left: 250px;
+        margin-left: 310px;
     }
+
+    #product-description-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+        margin-right: 15px;
+        width: auto;
+    }
+
+    #product-image-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 310px;
+
+    }
+
+    .title-product {
+        margin-bottom: 10px;
+    }
+
+
 
 
 }
