@@ -436,7 +436,5 @@ input[type=submit]:hover {
 }
 
 .thank-you-container img {
-    /* width: auto;
-    height: auto; */
     object-fit: cover;
 }
