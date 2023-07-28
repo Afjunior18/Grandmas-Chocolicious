@@ -563,3 +563,25 @@ input[type=submit]:hover {
         font-size: 140%;
     }
 }
+
+@media screen and (max-width:1190px) {
+
+    #content-box {
+        width: 80%;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    #video-content video {
+        height: 470px;
+    }
+
+    #content-box {
+        height: 500px;
+    }
+
+
+
+
+}
