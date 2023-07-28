@@ -41,31 +41,20 @@ body {
     font-size: 200%;
 }
 
-#menu {
-    display: flex;
-    justify-content: flex-end;
-    margin-left: 120px;
-}
-
-
 #logo:hover {
     opacity: 0.7;
 }
 
-
-
-#menu ul {
-    margin-top: 100px;
-    list-style: none;
+#menu {
     display: flex;
-}
-
-#menu li {
-    margin-right: 30px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgba(237, 222, 207, 0.7);
     font-size: 160%;
     font-family: 'Dancing Script', cursive, sans-serif;
 }
-
 
 #menu a {
     color: #8d4925;
