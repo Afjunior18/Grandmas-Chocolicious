@@ -397,143 +397,15 @@ input[type=submit]:hover {
 
 /* Media query Section */
 
-/* For screen sizes from 1420px wide and down */
+/* For sreeen sizes from 1150px wide and down */
 
-/* @media screen and (max-width:1420px) {
+@media screen and (max-width:1150px) {
+
     #product-container {
-        display: flex;
         flex-wrap: wrap;
-        width: 65%;
-        height: auto;
-        margin-left: 250px;
-    }
-
-    #product-image-container {
-        justify-content: center;
-        align-items: center;
-        margin-top: 30px;
-
-    }
-} */
-
-/* For screen sizes from 1365px wide and down */
-
-
-/* Our product section*/
-
-/* @media screen and (max-width:1365px) {
-    #product-container {
-        margin-left: 310px;
-    }
-
-    #product-description-container {
-        flex-wrap: wrap;
-        align-items: center;
-        height: auto;
-        margin-right: 15px;
-        width: auto;
-    }
-
-    #product-image-container {
-        justify-content: center;
-        align-items: center;
-        margin-top: 310px;
-
-    }
-
-    .title-product {
-        margin-bottom: 10px;
-    }
-
-    /*About us section*/
-
-/* #about-us-letter {
-        margin-left: 15px;
-    }
-} */
-
-/* @media screen and (max-width:1310px) {
-
-    #product-container {
-        width: 50%;
-        margin-left: 310px;
-    }
-
-    .product-img {
-        width: 250px;
-        height: 230px;
-    } */
-
-/*About us section*/
-
-/* #about-us-letter {
-        margin-left: 2px;
-    } */
-
-
-/* @media screen and (max-width:1305px) {
-
-  
-
-    #logo {
-        margin-top: 100px;
-        margin-right: 20px;
-        font-size: 150%;
-    }
-
-    #menu li {
-        font-size: 180%;
-
-    }
-}
-
-@media screen and (max-width:1240px) {
-    .product-img {
-        width: 200px;
-        height: 180px;
-    }
-}
-
-@media screen and (max-width:1234px) {
-
-    #header-container {
-        display: flex;
         flex-direction: column;
-        height: 150px;
-
-    }
-
-    #logo {
-        margin-top: 20px;
-        padding: 0;
-        font-size: 110%;
-        font-size: 150%;
-    }
-
-    #menu ul {
-        margin-top: 10px;
-    }
-
-    #menu li {
-        margin-right: 150px;
-        font-size: 140%;
+        align-content: center;
+        height: 1000px;
+        column-gap: 120px;
     }
 }
-
-@media screen and (max-width:1190px) {
-
-    #content-box {
-        width: 80%;
-        justify-content: center;
-        align-items: center;
-        margin: 0 auto;
-    }
-
-    #video-content video {
-        height: 470px;
-    }
-
-    #content-box {
-        height: 500px;
-    }
-} */
