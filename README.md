@@ -1,28 +1,3 @@
-Grandma's Chocolocious
-
-Welcome to Grandma's Chocolocious!,
-
-Grandma's Chocolocious is a heartwarming website dedicated to an adoring grandmother who is passionate about chocolate and wants to spread love in the form of delicious chocolates. This website aims to bring joy to people's lives through the delightful world of chocolates.
-
-User Experience (UX)
-
-At Grandma's Chocolocious, we prioritize providing a delightful user experience for everyone who visits our website. Whether you are a new user, a returning visitor, or a frequent user, we have tailored the website to cater to your needs and goals.
-
-New User
-
-- I want to learn more about Grandma's Chocolocious and the story behind the passion for chocolate.
-- I want to easily navigate through the website and find all the relevant information about the chocolates and services offered.
-- I want to access the menu to explore the variety of chocolates available, helping me decide on my preferences before experiencing the chocolate delights.
-
-Returning Visitor Goals
-
-- I want to check for any updates on the schedules of events, workshops, or special chocolate-themed activities.
-- I want to easily find the contact information to get in touch with Grandma's Chocolocious for inquiries or feedback.
-
-Frequent User Goals
-
-- I want to stay informed about any new chocolate creations or limited-edition treats by checking for updates on the schedules or announcements.
-- I want to use the map provided on the contact page to conveniently add Grandma's Chocolocious location to the route of my GPS navigation.
 
 
 
