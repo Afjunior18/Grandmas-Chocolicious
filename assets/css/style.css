@@ -517,3 +517,11 @@ input[type=submit]:hover {
 
     }
 }
+
+@media screen and (max-width:550px) {
+
+    #content-box {
+        height: 240px;
+
+    }
+}
