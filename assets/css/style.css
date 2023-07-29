@@ -86,7 +86,7 @@ body {
     text-align: center;
 }
 
-/* content box section - feedback - photo - video */
+/* content box section - 3 photos  */
 
 #content-box {
     display: flex;
@@ -116,10 +116,6 @@ body {
     margin: 0 auto;
     float: left;
 }
-
-/* Images, Videos and Testimonials Section */
-
-
 
 
 
@@ -237,28 +233,25 @@ hr {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
     height: 600px;
-
 }
 
 #about-us-letter {
     display: flex;
     flex-direction: column;
-    align-items: left;
+    justify-content: center;
     justify-items: center;
     background-color: rgba(237, 222, 207, 0.5);
     color: #8d4925;
     width: 50%;
     height: 550px;
     text-align: center;
-    margin-top: 10px;
     font-size: 130%;
-    padding-top: 40px;
+    padding: 0 50px;
 }
 
 #about-us-letter p {
-    margin: 10px 30px;
+    /* margin-top: 10px; */
 }
 
 /* Contact section */
@@ -400,7 +393,7 @@ input[type=submit]:hover {
 
 /* For screen sizes from 1420px wide and down */
 
-@media screen and (max-width:1420px) {
+/* @media screen and (max-width:1420px) {
     #product-container {
         display: flex;
         flex-wrap: wrap;
@@ -415,14 +408,14 @@ input[type=submit]:hover {
         margin-top: 30px;
 
     }
-}
+} */
 
 /* For screen sizes from 1365px wide and down */
 
 
 /* Our product section*/
 
-@media screen and (max-width:1365px) {
+/* @media screen and (max-width:1365px) {
     #product-container {
         margin-left: 310px;
     }
@@ -448,12 +441,12 @@ input[type=submit]:hover {
 
     /*About us section*/
 
-    #about-us-letter {
+/* #about-us-letter {
         margin-left: 15px;
     }
-}
+} */
 
-@media screen and (max-width:1310px) {
+/* @media screen and (max-width:1310px) {
 
     #product-container {
         width: 50%;
@@ -463,18 +456,18 @@ input[type=submit]:hover {
     .product-img {
         width: 250px;
         height: 230px;
-    }
+    } */
 
-    /*About us section*/
+/*About us section*/
 
-    #about-us-letter {
+/* #about-us-letter {
         margin-left: 2px;
-    }
-}
+    } */
 
-@media screen and (max-width:1305px) {
 
-    /*Header section*/
+/* @media screen and (max-width:1305px) {
+
+  
 
     #logo {
         margin-top: 100px;
@@ -537,4 +530,4 @@ input[type=submit]:hover {
     #content-box {
         height: 500px;
     }
-}
+} */
