@@ -419,18 +419,9 @@ input[type=submit]:hover {
         column-gap: 120px;
     }
 
-    #cupcake {
-        width: 30%;
-    }
-
-    #cake {
-        width: 30%;
-    }
-
-    #brownie {
-        width: 30%;
-    }
-
+    #cupcake,
+    #cake,
+    #brownie,
     #brigadeiro {
         width: 30%;
     }
@@ -457,19 +448,48 @@ input[type=submit]:hover {
         column-gap: 15px;
     }
 
-    #cupcake {
-        width: 25%;
-    }
-
-    #cake {
-        width: 25%;
-    }
-
-    #brownie {
-        width: 25%;
-    }
-
+    #cupcake,
+    #cake,
+    #brownie,
     #brigadeiro {
         width: 25%;
+    }
+
+}
+
+@media screen and (max-width:921px) {
+
+    #content-box {
+        height: 480px;
+    }
+
+    #content-right,
+    #content-center,
+    #content-left {
+        width: 30%;
+    }
+
+    #content-center {
+        padding-top: 25px;
+    }
+
+
+    #product-container {
+        display: block;
+        height: 1800px;
+
+    }
+
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 50%;
+        margin: 50px auto;
+
+    }
+
+    .image-container img {
+        margin-top: 15px;
     }
 }
