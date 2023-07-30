@@ -554,4 +554,22 @@ input[type=submit]:hover {
     #product-container {
         height: 1720px;
     }
+
+    #product-container p {
+        padding: 0 5px;
+    }
+
+    /* About us section for better responsiveness  screen from 320px */
+
+    #about-us-container {
+        height: 920px;
+    }
+
+
+    #about-us-letter {
+        width: 100%;
+        height: 900px;
+    }
+
+
 }
