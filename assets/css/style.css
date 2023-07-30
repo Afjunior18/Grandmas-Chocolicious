@@ -23,20 +23,27 @@ body {
 
 /* Header, logo and menu */
 
-#header-container {
+header {
     display: flex;
-    align-items: flex-end;
-    justify-content: flex-start;
+    /* align-items: flex-end;
+    justify-content: flex-start; */
     background-color: rgba(237, 222, 207, 1);
     height: 100px;
-    z-index: 999;
+    z-index: 99;
     position: fixed;
     width: 100%;
 }
 
+nav {
+    display: block;
+    position: relative;
+    width: fit-content;
+    padding-right: 2rem;
+}
+
 .logo {
-    margin-top: 35px;
-    margin-left: 10px;
+    /* margin-top: 35px;
+    margin-left: 10px; */
     font-size: 300%;
 }
 
@@ -46,12 +53,12 @@ body {
 
 #menu {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px;
-    margin-top: 10px;
-    background-color: rgba(237, 222, 207, 0.7);
-    font-size: 160%;
+    just
+    /* justify-content: space-around;
+    align-items: center; */
+    /* padding: 10px;
+    margin-top: 10px; */
+    font-size: 135%;
     font-family: 'Dancing Script', cursive, sans-serif;
 }
 
@@ -60,9 +67,19 @@ body {
     text-decoration: none;
 }
 
+#menu li {
+    list-style: none;
+}
+
+#menu>li {
+    padding-left: 3rem;
+}
+
+
 #menu a:hover {
     opacity: 0.7;
 }
+
 
 /* hero image and hero text */
 
