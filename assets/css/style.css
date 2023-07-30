@@ -565,11 +565,44 @@ input[type=submit]:hover {
         height: 920px;
     }
 
-
     #about-us-letter {
         width: 100%;
         height: 900px;
     }
 
+
+
+    /*About us section*/
+
+    #contact-container {
+        height: 1150px;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+    }
+
+    #form-contact {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .form-input {
+        width: 245px;
+    }
+
+    #form-box {
+        width: 265px;
+        border: 2px solid #8d4925;
+        border-radius: 10%;
+        font-size: 110%;
+    }
+
+    #form-contact h2 {
+        margin-top: 25px;
+    }
+
+    #form-contact hr {
+        border: none;
+    }
 
 }
