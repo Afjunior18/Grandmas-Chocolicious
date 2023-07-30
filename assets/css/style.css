@@ -533,3 +533,25 @@ input[type=submit]:hover {
 
     }
 }
+
+@media screen and (max-width:320px) {
+
+    #content-box {
+        height: 180px;
+
+    }
+
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 85%;
+        border: 4px solid #8d4925;
+        border-radius: 10%;
+        margin: 30px auto;
+    }
+
+    #product-container {
+        height: 1720px;
+    }
+}
