@@ -314,7 +314,8 @@ div h3 {
     align-items: center;
     justify-content: center;
     line-height: 20px;
-    border: 1px solid #8d4925;
+    border: 3px solid #8d4925;
+    border-radius: 10%;
     width: 380px;
     height: 300px;
     margin: 0 auto;
