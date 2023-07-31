@@ -499,7 +499,7 @@ input[type=submit]:hover {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 25%;
+        width: 35%;
     }
 
 }
@@ -552,13 +552,24 @@ input[type=submit]:hover {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 50%;
+        width: 45%;
         margin: 50px auto;
 
     }
 
     .image-container img {
         margin-top: 15px;
+    }
+}
+
+@media screen and (max-width:900px) {
+
+    #about-us-container {
+        height: 650px;
+    }
+
+    #about-us-letter {
+        height: 600px;
     }
 }
 
