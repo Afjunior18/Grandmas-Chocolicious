@@ -616,6 +616,8 @@ input[type=submit]:hover {
 
 @media screen and (max-width:700px) {
 
+    /* header and navigation menu */
+
     header {
         justify-content: flex-end;
         align-items: center;
@@ -631,9 +633,13 @@ input[type=submit]:hover {
         margin-bottom: 5px;
     }
 
+    /* Content section */
+
     #content-box {
         height: 350px;
     }
+
+    /* Abous us section*/
 
     #about-us-container {
         height: 850px;
@@ -642,6 +648,8 @@ input[type=submit]:hover {
     #about-us-letter {
         height: 750px;
     }
+
+    /* Contact section */
 
     #contact-container {
         height: 1300px;
@@ -653,15 +661,29 @@ input[type=submit]:hover {
         margin: 0;
     }
 
+    #about-us-container {
+        height: 950px;
+    }
+
+    #about-us-letter {
+        height: 850px;
+        width: 70%;
+    }
+
 }
 
 
 @media screen and (max-width:650px) {
 
+    #hero-text h2 {
+        letter-spacing: 0;
+    }
+
     #content-box {
         height: 330px;
-
     }
+
+
 }
 
 @media screen and (max-width:550px) {
