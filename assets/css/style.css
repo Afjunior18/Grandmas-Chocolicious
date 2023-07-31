@@ -417,10 +417,16 @@ input[type=submit]:hover {
 
 @media screen and (max-width:1150px) {
 
+    /* Header - logo and navigation menu */
+
+    #menu>li {
+        padding-left: 2rem;
+    }
+
 
 
     #content-box {
-        height: 550px;
+        height: 600px;
         align-content: center;
         justify-content: center;
         align-items: center;
@@ -439,7 +445,7 @@ input[type=submit]:hover {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 30%;
+        width: 35%;
     }
 
 
