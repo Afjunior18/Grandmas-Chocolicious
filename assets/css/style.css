@@ -700,6 +700,17 @@ input[type=submit]:hover {
     }
 }
 
+@media screen and (max-width:500px) {
+
+    #menu>li {
+        padding-left: 1.4rem;
+    }
+
+    .logo {
+        font-size: 200%;
+    }
+}
+
 @media screen and (max-width:450px) {
 
     #content-box {
