@@ -718,6 +718,15 @@ input[type=submit]:hover {
 
     }
 
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 60%;
+        margin: 50px auto;
+
+    }
+
     /*About us section */
 
     #about-us-letter {
@@ -729,6 +738,15 @@ input[type=submit]:hover {
         height: 800px;
     }
 
+}
+
+@media screen and (max-width:427px) {
+
+    #hero-text {
+        height: 60px;
+        top: 89%;
+
+    }
 }
 
 @media screen and (max-width:350px) {
