@@ -25,8 +25,8 @@ body {
 
 header {
     display: flex;
-    /* align-items: flex-end;
-    justify-content: flex-start; */
+    justify-content: space-between;
+    align-items: flex-end;
     background-color: rgba(237, 222, 207, 1);
     height: 100px;
     z-index: 99;
@@ -42,8 +42,7 @@ nav {
 }
 
 .logo {
-    /* margin-top: 35px;
-    margin-left: 10px; */
+    margin-left: 10px;
     font-size: 300%;
 }
 
@@ -53,12 +52,11 @@ nav {
 
 #menu {
     display: flex;
-    just
     /* justify-content: space-around;
     align-items: center; */
     /* padding: 10px;
     margin-top: 10px; */
-    font-size: 135%;
+    font-size: 145%;
     font-family: 'Dancing Script', cursive, sans-serif;
 }
 
