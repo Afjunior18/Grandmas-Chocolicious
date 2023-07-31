@@ -717,6 +717,18 @@ input[type=submit]:hover {
         height: 240px;
 
     }
+
+    /*About us section */
+
+    #about-us-letter {
+        height: 750px;
+        width: 100%;
+    }
+
+    #about-us-container {
+        height: 800px;
+    }
+
 }
 
 @media screen and (max-width:350px) {
