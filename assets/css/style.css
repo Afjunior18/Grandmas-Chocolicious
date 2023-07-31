@@ -506,8 +506,29 @@ input[type=submit]:hover {
 
 @media screen and (max-width:921px) {
 
+    .logo {
+        margin-left: 3px;
+        font-size: 230%;
+    }
+
+    header>h1 {
+        letter-spacing: 1px;
+    }
+
+    #menu {
+        font-size: 130%;
+    }
+
+    #menu>li {
+        padding-left: 1.1rem;
+    }
+
     #content-box {
         height: 480px;
+    }
+
+    #content-box {
+        height: 460px;
     }
 
     #content-right,
