@@ -565,15 +565,33 @@ input[type=submit]:hover {
 @media screen and (max-width:900px) {
 
     #about-us-container {
-        height: 650px;
+        height: 750px;
     }
 
     #about-us-letter {
-        height: 600px;
+        height: 700px;
     }
 }
 
 @media screen and (max-width:800px) {
+
+    .logo {
+        font-size: 210%;
+    }
+
+    header>h1 {
+        letter-spacing: none;
+    }
+
+    #menu {
+        font-size: 120%;
+    }
+
+    #menu>li {
+        padding-left: 0.8rem;
+    }
+
+
 
     #content-box {
         height: 400px;
