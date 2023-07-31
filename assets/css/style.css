@@ -643,6 +643,16 @@ input[type=submit]:hover {
         height: 750px;
     }
 
+    #contact-container {
+        height: 1300px;
+        flex-direction: column;
+
+    }
+
+    #contact-location {
+        margin: 0;
+    }
+
 }
 
 
