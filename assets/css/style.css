@@ -439,6 +439,10 @@ input[type=submit]:hover {
         padding-left: 2rem;
     }
 
+    h1 {
+        letter-spacing: 1px;
+    }
+
 
     #content-box {
         height: 600px;
@@ -607,10 +611,6 @@ input[type=submit]:hover {
 
     .logo {
         font-size: 210%;
-    }
-
-    header>h1 {
-        letter-spacing: none;
     }
 
     #menu {
