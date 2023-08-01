@@ -752,22 +752,16 @@ input[type=submit]:hover {
     }
 }
 
-@media screen and (max-width:398px) {
+@media screen and (max-width:397px) {
 
-
-    /* 
-    #menu {
-        font-size: 110%;
-        justify-content: center;
+    nav {
+        padding-right: 0.5rem;
     }
 
     .logo {
-        margin-bottom: 10px;
+        font-size: 220%;
     }
 
-    #menu>li {
-        padding-left: 1rem;
-    } */
 }
 
 
