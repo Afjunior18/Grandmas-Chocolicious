@@ -427,13 +427,17 @@ input[type=submit]:hover {
     }
 
 
-
     #content-box {
         height: 600px;
         align-content: center;
         justify-content: center;
         align-items: center;
 
+    }
+
+    .title-product h2,
+    p {
+        padding: 10px 10px;
     }
 
     #product-container {
@@ -448,7 +452,9 @@ input[type=submit]:hover {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 35%;
+        width: 40%;
+        border: 4px solid #8d4925;
+        border-radius: 15%;
     }
 
     /* Contact section */
