@@ -32,6 +32,8 @@ header {
     z-index: 99;
     position: fixed;
     width: 100%;
+    top: 0;
+    left: 0;
 }
 
 nav {
@@ -83,6 +85,7 @@ nav {
 
 #hero-container {
     position: relative;
+    margin-top: 100px;
 }
 
 #hero-image {
@@ -748,6 +751,27 @@ input[type=submit]:hover {
 
     }
 }
+
+@media screen and (max-width:398px) {
+
+
+    /* 
+    #menu {
+        font-size: 110%;
+        justify-content: center;
+    }
+
+    .logo {
+        margin-bottom: 10px;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    } */
+}
+
+
+
 
 @media screen and (max-width:350px) {
 
