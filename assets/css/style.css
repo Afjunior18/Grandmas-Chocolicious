@@ -764,6 +764,24 @@ input[type=submit]:hover {
 
 }
 
+@media scree and (max-width:375px) {
+
+    #hero-image {
+        height: 250px;
+    }
+
+    #hero-text h2 {
+        font-size: 125%;
+    }
+
+    #hero-text {
+        height: 30px;
+        top: 87%;
+    }
+
+}
+
+
 
 
 
@@ -781,6 +799,10 @@ input[type=submit]:hover {
 
     .logo {
         font-size: 200%;
+    }
+
+    nav {
+        margin-bottom: 3px;
     }
 
     #menu>li {
