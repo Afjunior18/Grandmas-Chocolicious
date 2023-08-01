@@ -816,6 +816,8 @@ input[type=submit]:hover {
 
     @media screen and (max-width:375px) {
 
+        /* hero image and text */
+
         #hero-image {
             height: 250px;
         }
@@ -851,6 +853,19 @@ input[type=submit]:hover {
                 height: 200px;
 
             }
+
+            /* About us section */
+
+            #about-us-container {
+                height: 850px;
+            }
+
+            #about-us-letter {
+                height: 800px;
+                width: 100%;
+            }
+
+
         }
 
         @media screen and (max-width:320px) {
