@@ -36,6 +36,10 @@ header {
     left: 0;
 }
 
+header a {
+    text-decoration: none;
+}
+
 nav {
     display: block;
     position: relative;
@@ -814,6 +818,11 @@ input[type=submit]:hover {
     .logo {
         font-size: 220%;
     }
+
+    h1 {
+        letter-spacing: 1px;
+    }
+
 }
 
 @media screen and (max-width:375px) {
