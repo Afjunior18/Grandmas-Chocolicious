@@ -753,10 +753,18 @@ input[type=submit]:hover {
 
 @media screen and (max-width:427px) {
 
-    #hero-text {
-        height: 60px;
-        top: 89%;
+    #hero-text h2 {
+        font-size: 130%;
+    }
 
+    #hero-text {
+        height: 25px;
+        top: 90%;
+
+    }
+
+    #hero-image {
+        height: 280px;
     }
 }
 
