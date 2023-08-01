@@ -669,11 +669,11 @@ input[type=submit]:hover {
     /* Abous us section*/
 
     #about-us-container {
-        height: 850px;
+        height: 800px;
     }
 
     #about-us-letter {
-        height: 750px;
+        height: 700px;
     }
 
     /* Contact section */
@@ -723,7 +723,17 @@ input[type=submit]:hover {
 
     #content-box {
         height: 280px;
+    }
 
+    /* About us */
+
+    #about-us-container {
+        height: 700px;
+    }
+
+    #about-us-letter {
+        height: 690px;
+        width: 100%;
     }
 }
 
