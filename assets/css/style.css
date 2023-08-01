@@ -34,6 +34,7 @@ header {
     width: 100%;
     top: 0;
     left: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 header a {
@@ -420,8 +421,6 @@ input[type=submit]:hover {
 
 
 /* Media query Section */
-
-
 
 @media screen and (max-width:2560px) {
     .image-container {
@@ -817,10 +816,6 @@ input[type=submit]:hover {
 
     .logo {
         font-size: 220%;
-    }
-
-    h1 {
-        letter-spacing: 1px;
     }
 
 }
