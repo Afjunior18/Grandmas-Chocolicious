@@ -821,12 +821,18 @@ input[type=submit]:hover {
         }
 
         #hero-text h2 {
-            font-size: 125%;
+            font-size: 120%;
         }
 
         #hero-text {
-            height: 30px;
-            top: 87%;
+            height: 22px;
+            top: 90%;
+            font-size: 90%;
+        }
+
+        #content-box {
+            height: 200px;
+
         }
 
         /* Our product section */
@@ -838,10 +844,6 @@ input[type=submit]:hover {
             width: 80%;
 
         }
-
-
-
-
 
         @media screen and (max-width:350px) {
 
