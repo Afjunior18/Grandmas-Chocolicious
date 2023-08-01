@@ -281,10 +281,6 @@ hr {
     padding: 0 50px;
 }
 
-#about-us-letter p {
-    /* margin-top: 10px; */
-}
-
 /* Contact section */
 
 
@@ -907,7 +903,7 @@ input[type=submit]:hover {
 
 
     #hero-image {
-        height: 200px;
+        height: 270px;
     }
 
     #hero-text h2 {
@@ -916,7 +912,7 @@ input[type=submit]:hover {
 
     #hero-text {
         height: 20px;
-        top: 88.5%;
+        top: 91.5%;
     }
 
     #content-box {
