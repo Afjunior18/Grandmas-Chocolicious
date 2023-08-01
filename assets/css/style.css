@@ -510,13 +510,6 @@ input[type=submit]:hover {
         column-gap: 15px;
     }
 
-    #cupcake,
-    #cake,
-    #brownie,
-    #brigadeiro {
-        width: 35%;
-    }
-
 }
 
 @media screen and (max-width:921px) {
@@ -574,6 +567,7 @@ input[type=submit]:hover {
 
     .image-container img {
         margin-top: 15px;
+        height: 70%;
     }
 }
 
