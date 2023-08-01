@@ -791,6 +791,19 @@ input[type=submit]:hover {
         font-size: 100%;
     }
 
+    #hero-image {
+        height: 200px;
+    }
+
+    #hero-text h2 {
+        font-size: 110%;
+    }
+
+    #hero-text {
+        height: 25px;
+        top: 86%;
+    }
+
     #content-box {
         height: 180px;
 
