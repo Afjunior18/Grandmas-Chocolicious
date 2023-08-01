@@ -414,6 +414,7 @@ input[type=submit]:hover {
     object-fit: cover;
 }
 
+
 /* Media query Section */
 
 
@@ -422,584 +423,578 @@ input[type=submit]:hover {
     .image-container {
         height: 100%;
     }
+}
 
-    /* For sreeen sizes from 1150px wide and down */
+/* For sreeen sizes from 1150px wide and down */
 
-    @media screen and (max-width:1150px) {
+@media screen and (max-width:1150px) {
 
-        /* Header - logo and navigation menu */
+    /* Header - logo and navigation menu */
 
-        #menu>li {
-            padding-left: 2rem;
-        }
-
-
-        #content-box {
-            height: 600px;
-            align-content: center;
-            justify-content: center;
-            align-items: center;
-
-        }
-
-        .title-product h2,
-        p {
-            padding: 10px 10px;
-        }
-
-        #product-container {
-            flex-wrap: wrap;
-            flex-direction: column;
-            align-content: center;
-            height: 1000px;
-            column-gap: 120px;
-        }
-
-        #cupcake,
-        #cake,
-        #brownie,
-        #brigadeiro {
-            width: 40%;
-            border: 4px solid #8d4925;
-            border-radius: 15%;
-        }
-
-        /* Contact section */
-
-        #form-contact hr {
-            border: none;
-        }
-
-
-    }
-
-    @media screen and (max-width:1100px) {
-
-        #product-container {
-            column-gap: 90px;
-        }
-
-    }
-
-    @media screen and (max-width:1025px) {
-        .logo {
-            margin-left: 5px;
-            font-size: 250%;
-        }
-
-        header>h1 {
-            letter-spacing: 3px;
-        }
-
-        #menu {
-            font-size: 135%;
-        }
-
-        #menu>li {
-            padding-left: 1.3rem;
-        }
-
-        #content-box {
-            height: 540px;
-        }
-
+    #menu>li {
+        padding-left: 2rem;
     }
 
 
-    @media screen and (max-width:970px) {
-
-        #content-box {
-            height: 500px;
-
-        }
-
-        #product-container {
-            column-gap: 15px;
-        }
-
-        /* About us */
-
-        #about-us-container {
-            height: 700px;
-        }
-
-        #about-us-letter {
-            height: 650px;
-        }
+    #content-box {
+        height: 600px;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
 
     }
 
-    @media screen and (max-width:921px) {
-
-        .logo {
-            margin-left: 3px;
-            font-size: 230%;
-        }
-
-        header>h1 {
-            letter-spacing: 1px;
-        }
-
-        #menu {
-            font-size: 130%;
-        }
-
-        #menu>li {
-            padding-left: 1.1rem;
-        }
-
-        #content-box {
-            height: 480px;
-        }
-
-        #content-box {
-            height: 460px;
-        }
-
-        #content-right,
-        #content-center,
-        #content-left {
-            width: 30%;
-        }
-
-        #content-center {
-            padding-top: 25px;
-        }
-
-
-        #product-container {
-            display: block;
-            height: 1800px;
-
-        }
-
-        #cupcake,
-        #cake,
-        #brownie,
-        #brigadeiro {
-            width: 45%;
-            margin: 50px auto;
-
-        }
-
-        .image-container img {
-            margin-top: 15px;
-            height: 70%;
-        }
+    .title-product h2,
+    p {
+        padding: 10px 10px;
     }
 
-    @media screen and (max-width:900px) {
-
-        #about-us-container {
-            height: 750px;
-        }
-
-        #about-us-letter {
-            height: 700px;
-        }
+    #product-container {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+        height: 1000px;
+        column-gap: 120px;
     }
 
-    @media screen and (max-width:800px) {
-
-        .logo {
-            font-size: 210%;
-        }
-
-        header>h1 {
-            letter-spacing: none;
-        }
-
-        #menu {
-            font-size: 120%;
-        }
-
-        #menu>li {
-            padding-left: 0.8rem;
-        }
-
-        #hero-image {
-            height: 350px;
-        }
-
-        #hero-text {
-            top: 91%
-        }
-
-
-
-        #content-box {
-            height: 400px;
-
-        }
-
-        /* About us section */
-
-        #about-us-letter {
-            width: 80%;
-        }
-
-        #form-contact h2 {
-            text-transform: none;
-            letter-spacing: none;
-        }
-
-        #form-box {
-            width: 330px;
-        }
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 40%;
+        border: 4px solid #8d4925;
+        border-radius: 15%;
     }
 
-    @media screen and (max-width:700px) {
+    /* Contact section */
 
-        /* header and navigation menu */
+    #form-contact hr {
+        border: none;
+    }
+}
 
-        header {
-            justify-content: flex-end;
-            align-items: center;
-            flex-direction: column;
-        }
+@media screen and (max-width:1100px) {
 
-        #menu>li {
-            padding-left: 5rem;
-        }
+    #product-container {
+        column-gap: 90px;
+    }
 
-        .logo {
-            font-size: 250%;
-            margin-bottom: 5px;
-        }
+}
 
-        /* Content section */
+@media screen and (max-width:1025px) {
+    .logo {
+        margin-left: 5px;
+        font-size: 250%;
+    }
 
-        #content-box {
-            height: 350px;
-        }
+    header>h1 {
+        letter-spacing: 3px;
+    }
 
-        /* Abous us section*/
+    #menu {
+        font-size: 135%;
+    }
 
-        #about-us-container {
-            height: 800px;
-        }
+    #menu>li {
+        padding-left: 1.3rem;
+    }
 
-        #about-us-letter {
-            height: 700px;
-        }
+    #content-box {
+        height: 540px;
+    }
 
-        /* Contact section */
+}
 
-        #contact-container {
-            height: 1300px;
-            flex-direction: column;
 
-        }
+@media screen and (max-width:970px) {
 
-        #contact-location {
-            margin: 0;
-        }
-
-        #about-us-container {
-            height: 950px;
-        }
-
-        #about-us-letter {
-            height: 850px;
-            width: 70%;
-        }
+    #content-box {
+        height: 500px;
 
     }
 
+    #product-container {
+        column-gap: 15px;
+    }
 
-    @media screen and (max-width:650px) {
+    /* About us */
 
-        #hero-text h2 {
-            letter-spacing: 0;
-        }
+    #about-us-container {
+        height: 700px;
+    }
 
-        #content-box {
-            height: 330px;
-        }
+    #about-us-letter {
+        height: 650px;
+    }
+
+}
+
+@media screen and (max-width:921px) {
+
+    .logo {
+        margin-left: 3px;
+        font-size: 230%;
+    }
+
+    header>h1 {
+        letter-spacing: 1px;
+    }
+
+    #menu {
+        font-size: 130%;
+    }
+
+    #menu>li {
+        padding-left: 1.1rem;
+    }
+
+    #content-box {
+        height: 480px;
+    }
+
+    #content-box {
+        height: 460px;
+    }
+
+    #content-right,
+    #content-center,
+    #content-left {
+        width: 30%;
+    }
+
+    #content-center {
+        padding-top: 25px;
+    }
+
+
+    #product-container {
+        display: block;
+        height: 1800px;
 
     }
 
-    @media screen and (max-width:629px) {
-        #menu>li {
-            padding-left: 3rem;
-        }
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 45%;
+        margin: 50px auto;
 
     }
 
-    @media screen and (max-width:550px) {
+    .image-container img {
+        margin-top: 15px;
+        height: 70%;
+    }
+}
 
-        #content-box {
-            height: 280px;
-        }
+@media screen and (max-width:900px) {
 
-        /* About us section */
-
-        #about-us-container {
-            height: 700px;
-        }
-
-        #about-us-letter {
-            height: 690px;
-            width: 100%;
-        }
+    #about-us-container {
+        height: 750px;
     }
 
-    @media screen and (max-width:500px) {
+    #about-us-letter {
+        height: 700px;
+    }
+}
 
-        #menu>li {
-            padding-left: 1.4rem;
-        }
+@media screen and (max-width:800px) {
 
-        .logo {
-            font-size: 200%;
-        }
+    .logo {
+        font-size: 210%;
+    }
 
-        /* Our Product section */
+    header>h1 {
+        letter-spacing: none;
+    }
 
-        #cupcake,
-        #cake,
-        #brownie,
-        #brigadeiro {
-            width: 70%;
-        }
+    #menu {
+        font-size: 120%;
+    }
 
-        @media screen and (max-width:450px) {
+    #menu>li {
+        padding-left: 0.8rem;
+    }
 
-            #content-box {
-                height: 240px;
-            }
+    #hero-image {
+        height: 350px;
+    }
 
-            #cupcake,
-            #cake,
-            #brownie,
-            #brigadeiro {
-                width: 60%;
-                margin: 50px auto;
-            }
+    #hero-text {
+        top: 91%
+    }
 
-            /*About us section */
+    #content-box {
+        height: 400px;
 
-            #about-us-letter {
-                height: 750px;
-                width: 100%;
-            }
+    }
 
-            #about-us-container {
-                height: 800px;
-            }
+    /* About us section */
 
-        }
+    #about-us-letter {
+        width: 80%;
+    }
 
-        @media screen and (max-width:427px) {
+    #form-contact h2 {
+        text-transform: none;
+        letter-spacing: none;
+    }
 
-            #hero-text h2 {
-                font-size: 130%;
-            }
+    #form-box {
+        width: 330px;
+    }
+}
 
-            #hero-text {
-                height: 25px;
-                top: 90%;
+@media screen and (max-width:700px) {
 
-            }
+    /* header and navigation menu */
 
-            #hero-image {
-                height: 280px;
-            }
-        }
+    header {
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+    }
 
-        @media screen and (max-width:397px) {
+    #menu>li {
+        padding-left: 5rem;
+    }
 
-            nav {
-                padding-right: 0.5rem;
-            }
+    .logo {
+        font-size: 250%;
+        margin-bottom: 5px;
+    }
 
-            .logo {
-                font-size: 220%;
-            }
+    /* Content section */
 
-        }
+    #content-box {
+        height: 350px;
+    }
 
-        @media screen and (max-width:375px) {
+    /* Abous us section*/
 
-            /* header, logo and menu */
+    #about-us-container {
+        height: 800px;
+    }
 
-            .logo {
-                font-size: 200%;
-            }
+    #about-us-letter {
+        height: 700px;
+    }
 
-            nav {
-                margin-bottom: 3px;
-            }
+    /* Contact section */
 
-            #menu>li {
-                padding-left: 1.2rem;
-            }
+    #contact-container {
+        height: 1300px;
+        flex-direction: column;
 
-            #menu {
-                font-size: 100%;
-            }
+    }
 
-            /* hero image and text */
+    #contact-location {
+        margin: 0;
+    }
 
-            #hero-image {
-                height: 250px;
-            }
+    #about-us-container {
+        height: 950px;
+    }
 
-            #hero-text h2 {
-                font-size: 120%;
-            }
+    #about-us-letter {
+        height: 850px;
+        width: 70%;
+    }
 
-            #hero-text {
-                height: 22px;
-                top: 90%;
-                font-size: 90%;
-            }
+}
 
-            #content-box {
-                height: 200px;
 
-            }
+@media screen and (max-width:650px) {
 
-            /* Our product section */
+    #hero-text h2 {
+        letter-spacing: 0;
+    }
 
-            #cupcake,
-            #cake,
-            #brownie,
-            #brigadeiro {
-                width: 80%;
+    #content-box {
+        height: 330px;
+    }
 
-            }
+}
 
-            @media screen and (max-width:350px) {
+@media screen and (max-width:629px) {
+    #menu>li {
+        padding-left: 3rem;
+    }
 
-                #content-box {
-                    height: 200px;
+}
 
-                }
+@media screen and (max-width:550px) {
 
-                /* About us section */
+    #content-box {
+        height: 280px;
+    }
 
-                #about-us-container {
-                    height: 900px;
-                }
+    /* About us section */
 
-                #about-us-letter {
-                    height: 850px;
-                    width: 100%;
-                }
+    #about-us-container {
+        height: 700px;
+    }
 
+    #about-us-letter {
+        height: 690px;
+        width: 100%;
+    }
+}
 
-            }
+@media screen and (max-width:500px) {
 
-            @media screen and (max-width:320px) {
+    #menu>li {
+        padding-left: 1.4rem;
+    }
 
+    .logo {
+        font-size: 200%;
+    }
 
-                #hero-image {
-                    height: 200px;
-                }
+    /* Our Product section */
 
-                #hero-text h2 {
-                    font-size: 110%;
-                }
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 70%;
+    }
+}
 
-                #hero-text {
-                    height: 20px;
-                    top: 88.5%;
-                }
+@media screen and (max-width:450px) {
 
-                #content-box {
-                    height: 180px;
+    #content-box {
+        height: 240px;
+    }
 
-                }
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 60%;
+        margin: 50px auto;
+    }
 
-                #cupcake,
-                #cake,
-                #brownie,
-                #brigadeiro {
-                    width: 90%;
-                    border: 4px solid #8d4925;
-                    border-radius: 15%;
-                    margin: 30px auto;
-                }
+    /*About us section */
 
-                #product-container {
-                    height: 1720px;
-                }
+    #about-us-letter {
+        height: 750px;
+        width: 100%;
+    }
 
-                #product-container p {
-                    padding: 0 5px;
-                }
+    #about-us-container {
+        height: 800px;
+    }
+}
 
-                /* About us section for better responsiveness  screen from 320px */
+@media screen and (max-width:427px) {
 
-                #about-us-container {
-                    height: 920px;
-                }
+    #hero-text h2 {
+        font-size: 130%;
+    }
 
-                #about-us-letter {
-                    width: 100%;
-                    height: 900px;
-                }
+    #hero-text {
+        height: 25px;
+        top: 90%;
 
+    }
 
+    #hero-image {
+        height: 280px;
+    }
+}
 
-                /*About us section*/
+@media screen and (max-width:397px) {
 
-                #contact-container {
-                    height: 1150px;
-                    flex-direction: column;
-                    align-items: center;
-                    gap: 5px;
-                }
+    nav {
+        padding-right: 0.5rem;
+    }
 
-                #form-contact {
-                    width: 100%;
-                    margin: 0 auto;
-                }
+    .logo {
+        font-size: 220%;
+    }
+}
 
-                .form-input {
-                    width: 245px;
-                }
+@media screen and (max-width:375px) {
 
-                #form-box {
-                    width: 265px;
-                    border: 2px solid #8d4925;
-                    border-radius: 10%;
-                    font-size: 110%;
-                }
+    /* header, logo and menu */
 
-                #form-contact h2 {
-                    margin-top: 25px;
-                }
-            }
+    .logo {
+        font-size: 200%;
+    }
 
-            @media screen and (max-width:280px) {
+    nav {
+        margin-bottom: 3px;
+    }
 
-                /* Header */
-                .logo {
-                    font-size: 170%;
-                }
+    #menu>li {
+        padding-left: 1.2rem;
+    }
 
-                #menu>li {
-                    padding-left: 0.6rem;
-                }
+    #menu {
+        font-size: 100%;
+    }
 
-                #hero-text h2 {
-                    font-size: 105%;
-                }
+    /* hero image and text */
 
-                #content-box {
-                    height: 160px;
-                }
+    #hero-image {
+        height: 250px;
+    }
 
-                /* About us section */
+    #hero-text h2 {
+        font-size: 120%;
+    }
 
-                #about-us-container {
-                    height: 1100px;
-                }
+    #hero-text {
+        height: 22px;
+        top: 90%;
+        font-size: 90%;
+    }
 
-                #about-us-letter {
-                    width: 100%;
-                    height: 1050px;
-                }
-            }
+    #content-box {
+        height: 200px;
+    }
+
+    /* Our product section */
+
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 80%;
+
+    }
+}
+
+@media screen and (max-width:350px) {
+
+    #content-box {
+        height: 200px;
+
+    }
+
+    /* About us section */
+
+    #about-us-container {
+        height: 900px;
+    }
+
+    #about-us-letter {
+        height: 850px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:320px) {
+
+
+    #hero-image {
+        height: 200px;
+    }
+
+    #hero-text h2 {
+        font-size: 110%;
+    }
+
+    #hero-text {
+        height: 20px;
+        top: 88.5%;
+    }
+
+    #content-box {
+        height: 180px;
+
+    }
+
+    #cupcake,
+    #cake,
+    #brownie,
+    #brigadeiro {
+        width: 90%;
+        border: 4px solid #8d4925;
+        border-radius: 15%;
+        margin: 30px auto;
+    }
+
+    #product-container {
+        height: 1720px;
+    }
+
+    #product-container p {
+        padding: 0 5px;
+    }
+
+    /* About us section for better responsiveness  screen from 320px */
+
+    #about-us-container {
+        height: 920px;
+    }
+
+    #about-us-letter {
+        width: 100%;
+        height: 900px;
+    }
+
+
+
+    /*About us section*/
+
+    #contact-container {
+        height: 1150px;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+    }
+
+    #form-contact {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .form-input {
+        width: 245px;
+    }
+
+    #form-box {
+        width: 265px;
+        border: 2px solid #8d4925;
+        border-radius: 10%;
+        font-size: 110%;
+    }
+
+    #form-contact h2 {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width:280px) {
+
+    /* Header */
+    .logo {
+        font-size: 170%;
+    }
+
+    #menu>li {
+        padding-left: 0.6rem;
+    }
+
+    #hero-text h2 {
+        font-size: 105%;
+    }
+
+    #content-box {
+        height: 160px;
+    }
+
+    /* About us section */
+
+    #about-us-container {
+        height: 1100px;
+    }
+
+    #about-us-letter {
+        width: 100%;
+        height: 1050px;
+    }
+}
