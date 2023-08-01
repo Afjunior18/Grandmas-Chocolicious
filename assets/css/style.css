@@ -90,7 +90,7 @@ nav {
 
 #hero-container {
     position: relative;
-    margin-top: 100px;
+    scroll-margin-top: 100px;
 }
 
 #hero-image {
@@ -185,6 +185,10 @@ nav {
 
 /*Product Section*/
 
+#our-product {
+    scroll-margin-top: 100px;
+}
+
 #product-container {
     display: flex;
     justify-content: space-around;
@@ -252,6 +256,10 @@ hr {
 
 /* About us section */
 
+#about-us {
+    scroll-margin-top: 100px;
+}
+
 #about-us-container {
     display: flex;
     align-items: center;
@@ -278,6 +286,11 @@ hr {
 }
 
 /* Contact section */
+
+
+#contact {
+    scroll-margin-top: 100px;
+}
 
 #contact-container {
     display: flex;
