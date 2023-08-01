@@ -510,6 +510,16 @@ input[type=submit]:hover {
         column-gap: 15px;
     }
 
+    /* About us */
+
+    #about-us-container {
+        height: 700px;
+    }
+
+    #about-us-letter {
+        height: 650px;
+    }
+
 }
 
 @media screen and (max-width:921px) {
@@ -613,6 +623,12 @@ input[type=submit]:hover {
     #content-box {
         height: 400px;
 
+    }
+
+    /* About us section */
+
+    #about-us-letter {
+        width: 80%;
     }
 
     #form-contact h2 {
