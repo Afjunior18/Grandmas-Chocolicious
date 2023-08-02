@@ -952,8 +952,10 @@ h2 {
     }
 
     #menu {
-        font-size: 100%;
+        font-size: 95%;
+        padding-right: 1.3rem;
     }
+
 
     /* hero image and text */
 
@@ -986,6 +988,7 @@ h2 {
         width: 80%;
 
     }
+
 }
 
 /* For sreeen sizes from 350px wide and down */
@@ -1111,6 +1114,10 @@ h2 {
 
     #menu>li {
         padding-left: 0.6rem;
+    }
+
+    #menu {
+        padding-right: 0.5rem;
     }
 
     /* Hero image and text section */
