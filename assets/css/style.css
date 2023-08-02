@@ -725,7 +725,7 @@ h2 {
 
     #form-contact h2 {
         text-transform: none;
-        letter-spacing: none;
+        letter-spacing: 0;
     }
 
     #form-box {
