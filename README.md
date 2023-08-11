@@ -1,6 +1,6 @@
 ## Grandma’s Chocolicious
 
-![Hero-image](assets/images/hero-image.webp)
+![Hero-image](assets/readme-images/hero-resize.png)
 
 **Description**
 
@@ -35,10 +35,11 @@ This website is for all chocolate enthusiasts, especially those who adore homema
 
 - Headings:  the font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
 
-(image font01)
+![Font headings](assets/readme-images/font01.png)
 
 - Body: the font type selected was: font-family: 'Barlow Condensed', sans-serif;
-(image font02)
+
+![Font body](assets/readme-images/font02.png)
 
 Both styles through https://fonts.google.com
 
@@ -57,7 +58,7 @@ https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/
 
 **Imagery**
 
-All the pictures were picked to match the theme of the website. The images were chosen from free image using the website https:www.pexels.com .
+All the pictures were picked to match the theme of the website. The images were chosen from free image using the website https://www.pexels.com .
 
 **Site layout**
   
@@ -76,23 +77,26 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 ## Features
 
 - Home Page: Crafted with product photos to captivate customer attention and create an engaging user experience.
-(Add photo home page)
+
+![Home page](assets/readme-images/home-page-features.png)
 
 - Header: Includes a logo and links for easy navigation on the website.
 
-(Add photo header)
+![Header](assets/readme-images/header-features.png)
 
 - Our Product section: Where you'll find photos and descriptions of the products we offer.
 ( Add photo our product)
 
+![Our Product Section](assets/readme-images/our-product-section.png)
+
 - Contact Section: Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
 
-( Add photo contact section)
+![Contact Section](assets/readme-images/contact-features.png)
 
 - Footer: Links to all our social media accounts like Instagram, YouTube, and Twitter.
 
-( Add photo footer)
+![Footer](assets/readme-images/footer-features.png)
 
 - Thank You Page: A message thanking you for signing up and visiting our website.
 
-( Add photo thank you page)
+![Thank you page](assets/readme-images/thank-you-features.png)
