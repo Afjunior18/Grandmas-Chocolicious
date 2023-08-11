@@ -151,23 +151,23 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 - **Gitpod:** Used for managing versions and team collaboration.
 
-- **Font Awesome:** A library of icons and symbols used for the webpage.
+- **Font Awesome:** A library of icons and symbols used for the webpage. <https://fontawesome.com/>
 
-- **Google Fonts:** Imported fonts for the website.
+- **Google Fonts:** Imported fonts for the website. https://fonts.google.com/
 
-- **Pexels:** Source of all the downloaded photos.
+- **Pexels:** Source of all the downloaded photos. <https://www.pexels.com>
 
 - **Paint:** Used to edit screenshots and convert image extensions for the readme file.
 
-- **Font-Pair:** Utilized to find matching fonts.
+- **Font-Pair:** Utilized to find matching fonts. https://www.fontpair.co/all
 
-- **Am I responsive:** Used to check how the website responds on various screens.
+- **Am I responsive:** Used to check how the website responds on various screens. <https://ui.dev/amiresponsive>
 
 - **Chrome Dev Tools:** Frequently used to experiment with code and preview on different screens.
 
-- **stackedit.io:** Used for editing and styling the Readme file.
+- **stackedit.io:** Used for editing and styling the Readme file. <https://stackedit.io/>
 
-- **tinypng.com:** Used for compressing and optimizing images to improve performance.
+- **tinypng.com:** Used for compressing and optimizing images to improve performance. <https://tinypng.com/>
 
 ## Testing
 
@@ -181,6 +181,8 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 ![CSS Validation](assets/readme-images/css-validation.png)
 
 **Lighthouse tool**:
+
+We used Lighthouse in DevTools to assess and optimize the performance, accessibility, best practices, SEO, and Progressive Web App (PWA) aspects of a web page.
 
 - **Dasktop - Index.html**
   
