@@ -228,7 +228,7 @@ I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that ou
 
 **Share:** Share the link with others.
 
-Explore Your Deployed Website: Navigate to the live site by clicking on the following link:
+Explore Deployed Website: Navigate to the live site by clicking on the following link:
 https://afjunior18.github.io/Grandmas-Chocolicious/index.html
 
 ## Credits
