@@ -29,4 +29,30 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 
 This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 
-## Design choices 
+## Design choices
+
+**Typography**
+
+- Headings:  the font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
+
+(image font01)
+
+- Body: the font type selected was: font-family: 'Barlow Condensed', sans-serif;
+(image font02)
+
+Both styles through https://fonts.google.com
+
+I made sure the fonts on the website go together well by using the website [https://www.fontpair.co/all]. This tool helped me choose fonts that work nicely together, making the site look better.
+
+**Colour Scheme**
+
+The website, centered around the theme of a chocolate-loving grandmother. The colors #8d4925 and rgba(237, 222, 207) were chosen to resonate with the essence of content.
+
+I choose the rgba(237, 222, 207) color scheme, adjusting the opacity in the range of 0.5 to 1 to achieve the most suitable visual outcome.
+These colors work together to bring our website to life, reminding users of the joy of sharing delicious chocolates and the warmth of family connections.
+
+[https://paletadecolores.online/en/html-colors/brown/]
+[https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/]
+
+**Imagery**
+All the pictures were picked to match the theme of the website. The images were chosen from free image using the website [www.pexels.com](http://www.pexels.com/).
