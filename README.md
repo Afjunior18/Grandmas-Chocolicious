@@ -14,9 +14,9 @@
   * [Returning Users](<#returning-users>)
   * [Target Audience](<#target-audience>)
 * [**Design choices**](<#design-choices>)
-  * [Typography](<#Typography>)
+  * [Typography](<#typography>)
   * [Colour Scheme](<#colour-scheme>)
-  * [Imagery](<#Imagery>)
+  * [Imagery](<#imagery>)
   * [Site Layout](<#site-layout>)
   * [wireframe](<#wireframe>)
 * [**Features**](<#features>)
@@ -27,8 +27,8 @@
   * [Favicon](<#favicon>)
   * [Thank you page](<#thank-you-page>)
 * [**Technologies Used**](<#technologies-used>)
-  * [Language Used](<#language-used>)
-  * [Framework, Libraries and Program](<#framework-libraries-and-program>)
+  * [Language Used:](<#language-used>)
+  * [Framework, Libraries and Programs:](<#framework-libraries-and-program>)
 * [**Testing**](<#testing>)
   * [HTML Validation](<#html-validation>)
   * [CSS Validation](<#css-validation>)
@@ -134,43 +134,50 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Features
 
-- **Home Page**: Crafted with product photos to captivate customer attention and create an engaging user experience.
+### Home Page: 
+- Crafted with product photos to captivate customer attention and create an engaging user experience.
   
 
 ![Home page](assets/readme-images/home-page-features.png)
 
 
-- **Header**: Includes a logo and links for easy navigation on the website.
+### Header: 
+- Includes a logo and links for easy navigation on the website.
   
 
 ![Header](assets/readme-images/header-features.png)
 
 
-- **Our Product section**: Where you'll find photos and descriptions of the products we offer.
+### Our Product section: 
+- Where you'll find photos and descriptions of the products we offer.
 
 
 ![Our Product Section](assets/readme-images/our-product-section.png)
 
 
-- **Contact Section**: Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
+### Contact Section: 
+- Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
   
 
 ![Contact Section](assets/readme-images/contact-features.png)
 
 
-- **Footer**: Links to all our social media accounts like Instagram, YouTube, and Twitter.
+### Footer: 
+- Links to all our social media accounts like Instagram, YouTube, and Twitter.
   
 
 ![Footer](assets/readme-images/footer-features.png)
 
 
-- **Thank You Page**: A message thanking you for signing up and visiting our website.
+### Thank You Page: 
+- A message thanking you for signing up and visiting our website.
 
 
 ![Thank you page](assets/readme-images/thank-you-features.png)
 
 
-- **Favicon**: An icon for the browser tab.
+### Favicon: 
+- An icon for the browser tab.
   
 
 ![Thank you page](assets/favicon/favicon-32x32.png)
@@ -242,9 +249,9 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 
 ![Mobile thank-you.html](assets/readme-images/thank-you-mobile.png)
 
-**Wave Validation**
+### Wave Validation
 
-I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
+- I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
 
 ![Wave Validation](assets/readme-images/wave-validation.png)
 
