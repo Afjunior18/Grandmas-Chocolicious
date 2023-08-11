@@ -10,7 +10,9 @@
 
 * [**Project Goal**](<#project-goal>)
 * [**User Experience UX Development**](<#user-experience-ux-development>)
-  * [Wireframes](<#wireframes>)
+  * [New User](<#new-user>)
+  * [Returning Users](<#return-users>)
+  * [Target Audience](<#target-audience>)
 * [**Design choices**](<#design-choices>)
 * [**Features**](<#features>)
 * [**Technologies Used**](<#technologies-used>)
