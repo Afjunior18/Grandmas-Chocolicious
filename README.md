@@ -205,3 +205,26 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
 
 ![Wave Validation](assets/readme-images/wave-validation.png)
+
+## Deployment
+
+**GitHub Account:** Create on account at github.com. The platform is free.
+
+**Create Repository:** To start, you'll need a repository to host your website. Click the "+" button on the main page, then "New Repository."
+
+**Repository Details:** Name, describe, and set it as public.
+
+**Settings:** Access repository settings.
+
+**GitHub Pages:** Find this section in settings.
+
+ **Choose Branch:** Select "main" branch for deployment.
+
+**Save:** Save settings to initiate deployment.
+
+**Deployment Complete:** Wait for the deployment message.
+
+**Access Site:** Get the link to your deployed site.
+
+**Share:** Share the link with others.
+
