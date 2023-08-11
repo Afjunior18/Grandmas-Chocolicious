@@ -180,7 +180,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ![CSS Validation](assets/readme-images/css-validation.png)
 
-- **Lighthouse tool**:
+**Lighthouse tool**:
 
 - **Dasktop - Index.html**
   
@@ -189,4 +189,13 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 - **Mobile - Index.html**
 
 ![Mobile index.html](assets/readme-images/mobile-index.png)
+
+- **Dasktop - thank-you.html**
+  
+![Dasktop thank-you.html](assets/readme-images/thank-you.png)
+
+- **Mobile - thank-you.html**
+
+![Mobile thank-you.html](assets/readme-images/thank-you-mobile.png)
+
 
