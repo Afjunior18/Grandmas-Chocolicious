@@ -42,7 +42,7 @@ This website is for all chocolate enthusiasts, especially those who adore homema
 
 Both styles through https://fonts.google.com
 
-I made sure the fonts on the website go together well by using the website [https://www.fontpair.co/all]. This tool helped me choose fonts that work nicely together, making the site look better.
+I made sure the fonts on the website go together well by using the website https://www.fontpair.co/all. This tool helped me choose fonts that work nicely together, making the site look better.
 
 **Colour Scheme**
 
@@ -51,8 +51,48 @@ The website, centered around the theme of a chocolate-loving grandmother. The co
 I choose the rgba(237, 222, 207) color scheme, adjusting the opacity in the range of 0.5 to 1 to achieve the most suitable visual outcome.
 These colors work together to bring our website to life, reminding users of the joy of sharing delicious chocolates and the warmth of family connections.
 
-[https://paletadecolores.online/en/html-colors/brown/]
-[https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/]
+https://paletadecolores.online/en/html-colors/brown/
+
+https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/
 
 **Imagery**
-All the pictures were picked to match the theme of the website. The images were chosen from free image using the website [www.pexels.com](http://www.pexels.com/).
+
+All the pictures were picked to match the theme of the website. The images were chosen from free image using the website https:www.pexels.com .
+
+**Site layout**
+  
+The website layout features a header with the logo and navigation menu. It comprises three sections: "Our Product," "About Us," and "Contact Us." Additionally, there's a page to express gratitude for visiting the site and for signing up. Furthermore, the website includes a footer containing links to our social media profiles, allowing easy connection and interaction.
+
+**Wireframe**
+
+The wireframe was made using a tool called Balsamiq. This tool helped create an early look at the website before actually building it. This made it easier to organize how things would look and where pictures and content would go. It also helped make sure everything looks nice on different devices like phones and computers.
+
+(Add image dasktop)
+
+(Add image tablet)
+
+(add image mobile)
+
+## Features
+
+- Home Page: Crafted with product photos to captivate customer attention and create an engaging user experience.
+(Add photo home page)
+
+- Header: Includes a logo and links for easy navigation on the website.
+
+(Add photo header)
+
+- Our Product section: Where you'll find photos and descriptions of the products we offer.
+( Add photo our product)
+
+- Contact Section: Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
+
+( Add photo contact section)
+
+- Footer: Links to all our social media accounts like Instagram, YouTube, and Twitter.
+
+( Add photo footer)
+
+- Thank You Page: A message thanking you for signing up and visiting our website.
+
+( Add photo thank you page)
