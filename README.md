@@ -1,6 +1,6 @@
 ## Grandma’s Chocolicious
 
-![Hero-image](assets/readme-images/hero-resize.png)
+![Responsiveness](assets/readme-images/screens.png)
 
 **Description**
 
