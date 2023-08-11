@@ -8,7 +8,7 @@
 
 ## Project Goal:
 
-In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. I want to impress with a responsive design and a seamless user experience. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
+In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. I want to impress with a responsive design a user experience. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 
 ## User Experience (UX) Development
 
@@ -235,24 +235,24 @@ https://afjunior18.github.io/Grandmas-Chocolicious/index.html
 
 **Acknowledgments**
 
-- Special thanks to my mentor [David Bowers](https://github.com/dnlbowers) for their valuable insights and feedback during the development of this project.
+Special thanks to my mentor [David Bowers](https://github.com/dnlbowers) for their valuable insights and feedback during the development of this project.
 
-- To everyone in the Slack community, who directly or indirectly contributed in any way. The well-organized channels that make it easier to seek help regarding code queries, project criteria, README.md, and much more.
+To everyone in the Slack community, who directly or indirectly contributed in any way. The well-organized channels that make it easier to seek help regarding code queries, project criteria, README.md, and much more.
 
 ## Media and Content
 
 **Images**
 
-- All images used in this project were sourced from [Pexels](https://www.pexels.com/), a platform for free-to-use high-quality images.
+All images used in this project were sourced from [Pexels](https://www.pexels.com/), a platform for free-to-use high-quality images.
 
 **Icons**
 
-- Icons used throughout the site are from [Font Awesome](https://fontawesome.com/), a comprehensive library of icons and symbols.
+Icons used throughout the site are from [Font Awesome](https://fontawesome.com/), a comprehensive library of icons and symbols.
 
 **Fonts**
 
-- The font styles for this website were selected from [Google Fonts](https://fonts.google.com/), a collection of web-friendly fonts.
+The font styles for this website were selected from [Google Fonts](https://fonts.google.com/), a collection of web-friendly fonts.
 
 **Tools**
 
-- The development process was facilitated by tools such as [Balsamiq](https://www.balsamiq.com/) for wireframing, [GitHub](https://github.com/) for version control, and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) for testing and debugging.
+The development process was facilitated by tools such as [Balsamiq](https://www.balsamiq.com/) for wireframing, [GitHub](https://github.com/) for version control, and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) for testing and debugging.
