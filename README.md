@@ -6,11 +6,22 @@
 
 "Welcome to **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion by a **passionate grandmother**.”
 
-## Project Goal:
+## Table of Contents:
+- [Project Goal](#-Project-Goal)
+- [User Experience (UX) Development](#-User-Experience-(UX)-Development)
+- [Design choices](#-Design-choices)
+- [Features](#-Features)
+- [Technologies Used](#-Technologies-Used)
+- [Testing](#-Testing)
+- [Deployment](#-Deployment)
+- [Credits](#-Credits)
+- [Media and Content](#-Media-and-Content)
+
+## Project Goal (#-Project-Goal)
 
 In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. I want to impress with a responsive design a user experience. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 
-## User Experience (UX) Development
+## User Experience (UX) Development (#-User-Experience-(UX)-Development)
 
 **New User:**
 
@@ -37,7 +48,7 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 
 
-## Design choices
+## Design choices (#-Design-choices)
 
 **Typography**
 
@@ -92,7 +103,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 (add image mobile)
 
 
-## Features
+## Features (#-Features)
 
 - **Home Page**: Crafted with product photos to captivate customer attention and create an engaging user experience.
   
@@ -136,7 +147,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 ![Thank you page](assets/favicon/favicon-32x32.png)
 
 
-## Technologies Used
+## Technologies Used (#-Technologies-Used)
 
 **Languages Used**
 
@@ -169,7 +180,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 - **tinypng.com:** Used for compressing and optimizing images to improve performance. https://tinypng.com/
 
-## Testing
+## Testing (#-Testing)
 
 - **HTML Validation**: <https://validator.w3.org/>
 
@@ -206,7 +217,7 @@ I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that ou
 
 ![Wave Validation](assets/readme-images/wave-validation.png)
 
-## Deployment
+## Deployment (#-Deployment)
 
 **GitHub Account:** Create on account at github.com. The platform is free.
 
@@ -231,7 +242,7 @@ I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that ou
 Explore Deployed Website: Navigate to the live site by clicking on the following link:
 https://afjunior18.github.io/Grandmas-Chocolicious/index.html
 
-## Credits
+## Credits (#-Credits)
 
 **Acknowledgments**
 
@@ -239,7 +250,7 @@ Special thanks to my mentor [David Bowers](https://github.com/dnlbowers) for the
 
 To everyone in the Slack community, who directly or indirectly contributed in any way. The well-organized channels that make it easier to seek help regarding code queries, project criteria, README.md, and much more.
 
-## Media and Content
+## Media and Content (#-Media-and-Content)
 
 **Images**
 
