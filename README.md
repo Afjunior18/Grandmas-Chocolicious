@@ -145,29 +145,29 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 **Framework, Libraries and Programs:**
 
-- **Balsamiq:** Used for creating wireframes.
+- **Balsamiq:** Used for creating wireframes. https://balsamiq.com/
 
-- **GitHub:** Used for website deployment.
+- **GitHub:** Used for website deployment. https://github.com/
 
 - **Gitpod:** Used for managing versions and team collaboration.
 
-- **Font Awesome:** A library of icons and symbols used for the webpage. <https://fontawesome.com/>
+- **Font Awesome:** A library of icons and symbols used for the webpage. https://fontawesome.com/
 
 - **Google Fonts:** Imported fonts for the website. https://fonts.google.com/
 
-- **Pexels:** Source of all the downloaded photos. <https://www.pexels.com>
+- **Pexels:** Source of all the downloaded photos. https://www.pexels.com
 
 - **Paint:** Used to edit screenshots and convert image extensions for the readme file.
 
 - **Font-Pair:** Utilized to find matching fonts. https://www.fontpair.co/all
 
-- **Am I responsive:** Used to check how the website responds on various screens. <https://ui.dev/amiresponsive>
+- **Am I responsive:** Used to check how the website responds on various screens. https://ui.dev/amiresponsive
 
 - **Chrome Dev Tools:** Frequently used to experiment with code and preview on different screens.
 
-- **stackedit.io:** Used for editing and styling the Readme file. <https://stackedit.io/>
+- **stackedit.io:** Used for editing and styling the Readme file. https://stackedit.io/
 
-- **tinypng.com:** Used for compressing and optimizing images to improve performance. <https://tinypng.com/>
+- **tinypng.com:** Used for compressing and optimizing images to improve performance. https://tinypng.com/
 
 ## Testing
 
@@ -180,7 +180,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ![CSS Validation](assets/readme-images/css-validation.png)
 
-**Lighthouse tool**:
+**Lighthouse tool**
 
 We used Lighthouse in DevTools to assess and optimize the performance, accessibility, best practices, SEO, and Progressive Web App (PWA) aspects of a web page.
 
@@ -200,4 +200,8 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 
 ![Mobile thank-you.html](assets/readme-images/thank-you-mobile.png)
 
+**Wave Validation**
 
+I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
+
+![Wave Validation](assets/readme-images/wave-validation.png)

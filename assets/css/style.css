@@ -1022,6 +1022,18 @@ h2 {
 
     /* hero image and text section */
 
+    .logo {
+        font-size: 170%;
+    }
+
+    #menu>li {
+        padding-left: 0.6rem;
+    }
+
+    #menu {
+        padding-right: 0.5rem;
+    }
+
     #hero-image {
         height: 270px;
     }
@@ -1110,7 +1122,7 @@ h2 {
 
     /* Header, logo and menu */
 
-    .logo {
+    /* .logo {
         font-size: 170%;
     }
 
@@ -1120,7 +1132,7 @@ h2 {
 
     #menu {
         padding-right: 0.5rem;
-    }
+    } */
 
     /* Hero image and text section */
 
