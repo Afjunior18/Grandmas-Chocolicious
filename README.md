@@ -1,35 +1,32 @@
+## Grandma’s Chocolicious
 
+![Hero-image](assets/images/hero-image.webp)
 
+**Description**
 
+"Welcome to **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion by a **passionate grandmother**.”
 
-## Codeanywhere Reminders
+## Project Goal:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. I want to impress with a responsive design and a seamless user experience. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 
-`python3 -m http.server`
+## User Experience (UX) Development
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+**New User:**
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- Easy Navigation: I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
+- Online Chocolate Experience: I'm eager to enjoy the delectable chocolates online through a seamless and delightful virtual experience.
+- Discover More: I want to know more about the grandmother's love for chocolates, her unique recipes, and the story behind her passion.
+- Sign Up for Sweet Surprises: I'm excited to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
+- Connect on Social Media: I wish to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
 
-`http_server`
+**Returning Users:**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Discover Chocolates: Learn about a variety of delicious chocolates crafted with love by the grandma.
+- Contact Us: Easily get in touch with the chocolate grandma for any questions or feedback.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+**Target Audience:**
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Design choices 
