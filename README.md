@@ -14,16 +14,16 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 
 **New User:**
 
-- Easy Navigation: I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
-- Online Chocolate Experience: I'm eager to enjoy the delectable chocolates online through a seamless and delightful virtual experience.
-- Discover More: I want to know more about the grandmother's love for chocolates, her unique recipes, and the story behind her passion.
-- Sign Up for Sweet Surprises: I'm excited to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
-- Connect on Social Media: I wish to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
+- **Easy Navigation**: I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
+- **Online Chocolate Experience**: I'm eager to enjoy the delectable chocolates online through a seamless and delightful virtual experience.
+- **Discover More**: I want to know more about the grandmother's love for chocolates, her unique recipes, and the story behind her passion.
+- **Sign Up for Sweet Surprises**: I'm excited to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
+- **Connect on Social Media**: I wish to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
 
 **Returning Users:**
 
-- Discover Chocolates: Learn about a variety of delicious chocolates crafted with love by the grandma.
-- Contact Us: Easily get in touch with the chocolate grandma for any questions or feedback.
+- **Discover Chocolates**: Learn about a variety of delicious chocolates crafted with love by the grandma.
+- **Contact Us**: Easily get in touch with the chocolate grandma for any questions or feedback.
 
 **Target Audience:**
 
@@ -33,21 +33,21 @@ This website is for all chocolate enthusiasts, especially those who adore homema
 
 **Typography**
 
-- Headings:  the font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
+- **Headings**:  the font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
 
 ![Font headings](assets/readme-images/font01.png)
 
-- Body: the font type selected was: font-family: 'Barlow Condensed', sans-serif;
+- **Body**: the font type selected was: font-family: 'Barlow Condensed', sans-serif;
 
 ![Font body](assets/readme-images/font02.png)
 
-Both styles through https://fonts.google.com
+*Both styles through https://fonts.google.com
 
 I made sure the fonts on the website go together well by using the website https://www.fontpair.co/all. This tool helped me choose fonts that work nicely together, making the site look better.
 
 **Colour Scheme**
 
-The website, centered around the theme of a chocolate-loving grandmother. The colors #8d4925 and rgba(237, 222, 207) were chosen to resonate with the essence of content.
+The website, centered around the theme of a chocolate-loving grandmother. The colors #8d4925 and rgba(237, 222, 207) and color white were chosen to resonate with the essence of content.
 
 I choose the rgba(237, 222, 207) color scheme, adjusting the opacity in the range of 0.5 to 1 to achieve the most suitable visual outcome.
 These colors work together to bring our website to life, reminding users of the joy of sharing delicious chocolates and the warmth of family connections.
@@ -76,27 +76,39 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Features
 
-- Home Page: Crafted with product photos to captivate customer attention and create an engaging user experience.
+- **Home Page**: Crafted with product photos to captivate customer attention and create an engaging user experience.
 
 ![Home page](assets/readme-images/home-page-features.png)
 
-- Header: Includes a logo and links for easy navigation on the website.
+- **Header**: Includes a logo and links for easy navigation on the website.
 
 ![Header](assets/readme-images/header-features.png)
 
-- Our Product section: Where you'll find photos and descriptions of the products we offer.
+- **Our Product section**: Where you'll find photos and descriptions of the products we offer.
 ( Add photo our product)
 
 ![Our Product Section](assets/readme-images/our-product-section.png)
 
-- Contact Section: Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
+- **Contact Section**: Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
 
 ![Contact Section](assets/readme-images/contact-features.png)
 
-- Footer: Links to all our social media accounts like Instagram, YouTube, and Twitter.
+- **Footer**: Links to all our social media accounts like Instagram, YouTube, and Twitter.
 
 ![Footer](assets/readme-images/footer-features.png)
 
-- Thank You Page: A message thanking you for signing up and visiting our website.
+- **Thank You Page**: A message thanking you for signing up and visiting our website.
 
 ![Thank you page](assets/readme-images/thank-you-features.png)
+
+- **Favicon**: An icon for the browser tab.
+
+![Thank you page](assets/favicon/favicon-32x32.png)
+
+##Technologies Used
+
+**Languages Used**
+
+- HTML
+- CSS
+
