@@ -11,12 +11,29 @@
 * [**Project Goal**](<#project-goal>)
 * [**User Experience UX Development**](<#user-experience-ux-development>)
   * [New User](<#new-user>)
-  * [Returning Users](<#return-users>)
+  * [Returning Users](<#returning-users>)
   * [Target Audience](<#target-audience>)
 * [**Design choices**](<#design-choices>)
+  * [Typography](<#Typography>)
+  * [Colour Scheme](<#colour-scheme>)
+  * [Imagery](<#Imagery>)
+  * [Site Layout](<#site-layout>)
+  * [wireframe](<#wireframe>)
 * [**Features**](<#features>)
+  * [Home Page](<#home-page>)
+  * [Header](<#header>)
+  * [Our Product Section](<#our-product-section>)
+  * [Footer](<#footer>)
+  * [Favicon](<#favicon>)
+  * [Thank you page](<#thank-you-page>)
 * [**Technologies Used**](<#technologies-used>)
+  * [Language Used](<#language-used>)
+  * [Framework, Libraries and Program](<#framework-libraries-and-program>)
 * [**Testing**](<#testing>)
+  * [HTML Validation](<#html-validation>)
+  * [CSS Validation](<#css-validation>)
+  * [LightHouse Tool](<#lighthouse-tool>)
+  * [Wave validation](<#wavevalidation>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
 * [**Media and Content**](<#media-and-content>)
@@ -60,15 +77,17 @@ This website is for all chocolate enthusiasts, especially those who adore homema
 
 ## Design choices
 
-**Typography**
+### Typography
 
-- **Headings**:  the font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
+- #### Headings:  
+The font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
   
 
 ![Font headings](assets/readme-images/font01.png)
 
 
-- **Body**: the font type selected was: font-family: 'Barlow Condensed', sans-serif;
+- #### Body: 
+The font type selected was: font-family: 'Barlow Condensed', sans-serif;
   
 
 ![Font body](assets/readme-images/font02.png)
@@ -80,7 +99,7 @@ Both styles through https://fonts.google.com
 I made sure the fonts on the website go together well by using the website https://www.fontpair.co/all. This tool helped me choose fonts that work nicely together, making the site look better.
 
 
-**Colour Scheme**
+### Colour Scheme
 
 The website, centered around the theme of a chocolate-loving grandmother. The colors #8d4925 and rgba(237, 222, 207) and color white were chosen to resonate with the essence of content.
 
@@ -92,17 +111,17 @@ https://paletadecolores.online/en/html-colors/brown/
 https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/
 
 
-**Imagery**
+### Imagery 
 
 All the pictures were picked to match the theme of the website. The images were chosen from free image using the website https://www.pexels.com .
 
 
-**Site layout**
+### Site layout
   
 The website layout features a header with the logo and navigation menu. It comprises three sections: "Our Product," "About Us," and "Contact Us." Additionally, there's a page to express gratitude for visiting the site and for signing up. Furthermore, the website includes a footer containing links to our social media profiles, allowing easy connection and interaction.
 
 
-**Wireframe**
+### Wireframe
 
 The wireframe was made using a tool called Balsamiq. This tool helped create an early look at the website before actually building it. This made it easier to organize how things would look and where pictures and content would go. It also helped make sure everything looks nice on different devices like phones and computers.
 
@@ -159,12 +178,12 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Technologies Used
 
-**Languages Used**
+### Languages Used:
 
 - HTML
 - CSS
 
-**Framework, Libraries and Programs:**
+### Framework, Libraries and Programs:
 
 - **Balsamiq:** Used for creating wireframes. https://balsamiq.com/
 
@@ -192,16 +211,18 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Testing
 
-- **HTML Validation**: <https://validator.w3.org/>
+### HTML Validation:
+- <https://validator.w3.org/>
 
 ![HTML Validation](assets/readme-images/html-validation.png)
 
 
-- **CSS Validation**: <https://jigsaw.w3.org/css-validator/>
+### CSS Validation: 
+- <https://jigsaw.w3.org/css-validator/>
 
 ![CSS Validation](assets/readme-images/css-validation.png)
 
-**Lighthouse tool**
+### Lighthouse tool
 
 We used Lighthouse in DevTools to assess and optimize the performance, accessibility, best practices, SEO, and Progressive Web App (PWA) aspects of a web page.
 
