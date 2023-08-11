@@ -168,3 +168,25 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 - **stackedit.io:** Used for editing and styling the Readme file.
 
 - **tinypng.com:** Used for compressing and optimizing images to improve performance.
+
+## Testing
+
+- **HTML Validation**: <https://validator.w3.org/>
+
+![HTML Validation](assets/readme-images/html-validation.png)
+
+
+- **CSS Validation**: <https://jigsaw.w3.org/css-validator/>
+
+![CSS Validation](assets/readme-images/css-validation.png)
+
+- **Lighthouse tool**:
+
+- **Dasktop - Index.html**
+  
+![Dasktop index.html](assets/readme-images/dasktop-index.png)
+
+- **Mobile - Index.html**
+
+![Mobile index.html](assets/readme-images/mobile-index.png)
+
