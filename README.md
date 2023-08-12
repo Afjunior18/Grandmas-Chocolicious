@@ -23,19 +23,19 @@
   - [Site layout](#site-layout)
   - [Wireframe](#wireframe)
 - [Features](#features)
-  - [Home Page:](#home-page)
-  - [Header:](#header)
-  - [Our Product section:](#our-product-section)
-  - [Contact Section:](#contact-section)
-  - [Footer:](#footer)
-  - [Thank You Page:](#thank-you-page)
-  - [Favicon:](#favicon)
+  - [Home Page](#home-page)
+  - [Header](#header)
+  - [Our Product section](#our-product-section)
+  - [Contact Section](#contact-section)
+  - [Footer](#footer)
+  - [Thank You Page](#thank-you-page)
+  - [Favicon](#favicon)
 - [Technologies Used](#technologies-used)
-  - [Languages Used:](#languages-used)
-  - [Framework, Libraries and Programs:](#framework-libraries-and-programs)
+  - [Languages Used](#languages-used)
+  - [Framework, Libraries and Programs](#framework-libraries-and-programs)
 - [Testing](#testing)
-  - [HTML Validation:](#html-validation)
-  - [CSS Validation:](#css-validation)
+  - [HTML Validation](#html-validation)
+  - [CSS Validation](#css-validation)
   - [Lighthouse tool](#lighthouse-tool)
   - [Wave Validation](#wave-validation)
 - [Deployment](#deployment)
@@ -136,49 +136,49 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Features
 
-### Home Page: 
+### Home Page
 - Crafted with product photos to captivate customer attention and create an engaging user experience.
   
 
 ![Home page](assets/readme-images/home-page-features.png)
 
 
-### Header: 
+### Header
 - Includes a logo and links for easy navigation on the website.
   
 
 ![Header](assets/readme-images/header-features.png)
 
 
-### Our Product section: 
+### Our Product section
 - Where you'll find photos and descriptions of the products we offer.
 
 
 ![Our Product Section](assets/readme-images/our-product-section.png)
 
 
-### Contact Section: 
+### Contact Section
 - Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
   
 
 ![Contact Section](assets/readme-images/contact-features.png)
 
 
-### Footer: 
+### Footer
 - Links to all our social media accounts like Instagram, YouTube, and Twitter.
   
 
 ![Footer](assets/readme-images/footer-features.png)
 
 
-### Thank You Page: 
+### Thank You Page
 - A message thanking you for signing up and visiting our website.
 
 
 ![Thank you page](assets/readme-images/thank-you-features.png)
 
 
-### Favicon: 
+### Favicon
 - An icon for the browser tab.
   
 
@@ -187,12 +187,12 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Technologies Used
 
-### Languages Used:
+### Languages Used
 
 - HTML
 - CSS
 
-### Framework, Libraries and Programs:
+### Framework, Libraries and Programs
 
 - **Balsamiq:** Used for creating wireframes. https://balsamiq.com/
 
@@ -220,13 +220,13 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 ## Testing
 
-### HTML Validation:
+### HTML Validation
 - <https://validator.w3.org/>
 
 ![HTML Validation](assets/readme-images/html-validation.png)
 
 
-### CSS Validation: 
+### CSS Validation 
 - <https://jigsaw.w3.org/css-validator/>
 
 ![CSS Validation](assets/readme-images/css-validation.png)
