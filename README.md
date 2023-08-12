@@ -2,13 +2,14 @@
 
 ![Responsiveness](assets/readme-images/screens.png)
 
-**Description**
+### Description
 
-"Welcome to **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion by a **passionate grandmother**.”
+"Welcome to **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.”
 
 ## Table of Contents
 
 - [Grandma’s Chocolicious](#grandmas-chocolicious)
+  - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Project Goal](#project-goal)
 - [User Experience (UX) Development](#user-experience-ux-development)
@@ -76,12 +77,11 @@ Easily get in touch with the chocolate grandma for any questions or feedback.
 
 This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 
-
 ## Design choices
 
 ### Typography
 
-- #### Headings:  
+- #### Headings: 
 The font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
   
 
