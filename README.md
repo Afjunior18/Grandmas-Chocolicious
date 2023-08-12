@@ -127,11 +127,16 @@ The website layout features a header with the logo and navigation menu. It compr
 
 The wireframe was made using a tool called Balsamiq. This tool helped create an early look at the website before actually building it. This made it easier to organize how things would look and where pictures and content would go. It also helped make sure everything looks nice on different devices like phones and computers.
 
+- **Desktop - Wireframe**
 ![Desktop Wireframe](assets/readme-images/desktop-wireframe.png)
+
+- **Tablet - Wireframe**
 
 ![Tablet Wireframe](assets/readme-images/tablet-wireframe.png)
 
-![Mobile Wireframe](assets/readme-images/mobile-index.pngt)
+- **Mobile - Wireframe**
+
+![Mobile Wireframe](assets/readme-images/mobile-index.png)
 
 
 ## Features
