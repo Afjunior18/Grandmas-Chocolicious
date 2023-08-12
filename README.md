@@ -136,7 +136,7 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 - **Mobile - Wireframe**
 
-![Mobile Wireframe](assets/readme-images/mobile-index.png)
+![Mobile Wireframe](assets/readme-images/mobile-wireframe.png)
 
 
 ## Features
