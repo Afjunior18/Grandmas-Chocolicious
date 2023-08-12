@@ -8,36 +8,38 @@
 
 ## Table of Contents
 
-* [**Project Goal**](<#project-goal>)
-* [**User Experience UX Development**](<#user-experience-ux-development>)
-  * [New User](<#new-user>)
-  * [Returning Users](<#returning-users>)
-  * [Target Audience](<#target-audience>)
-* [**Design choices**](<#design-choices>)
-  * [Typography](<#typography>)
-  * [Colour Scheme](<#colour-scheme>)
-  * [Imagery](<#imagery>)
-  * [Site Layout](<#site-layout>)
-  * [wireframe](<#wireframe>)
-* [**Features**](<#features>)
-  * [Home Page](<#home-page>)
-  * [Header](<#header>)
-  * [Our Product Section](<#our-product-section>)
-  * [Footer](<#footer>)
-  * [Favicon](<#favicon>)
-  * [Thank you page](<#thank-you-page>)
-* [**Technologies Used**](<#technologies-used>)
-  * [Languages Used](<#languages-used>)
-  * [Framework, Libraries and Programs](<#framework-libraries-and-programs>)
-* [**Testing**](<#testing>)
-  * [HTML Validation](<#html-validation>)
-  * [CSS Validation](<#css-validation>)
-  * [LightHouse Tool](<#lighthouse-tool>)
-  * [Wave validation](<#wave-validation>)
-* [**Deployment**](<#deployment>)
-* [**Credits**](<#credits>)
-* [**Media and Content**](<#media-and-content>)
-
+- [Grandma’s Chocolicious](#grandmas-chocolicious)
+- [Table of Contents](#table-of-contents)
+- [Project Goal](#project-goal)
+- [User Experience (UX) Development](#user-experience-ux-development)
+  - [New User](#new-user)
+  - [Returning Users](#returning-users)
+  - [Target Audience](#target-audience)
+- [Design choices](#design-choices)
+  - [Typography](#typography)
+  - [Colour Scheme](#colour-scheme)
+  - [Imagery](#imagery)
+  - [Site layout](#site-layout)
+  - [Wireframe](#wireframe)
+- [Features](#features)
+  - [Home Page:](#home-page)
+  - [Header:](#header)
+  - [Our Product section:](#our-product-section)
+  - [Contact Section:](#contact-section)
+  - [Footer:](#footer)
+  - [Thank You Page:](#thank-you-page)
+  - [Favicon:](#favicon)
+- [Technologies Used](#technologies-used)
+  - [Languages Used:](#languages-used)
+  - [Framework, Libraries and Programs:](#framework-libraries-and-programs)
+- [Testing](#testing)
+  - [HTML Validation:](#html-validation)
+  - [CSS Validation:](#css-validation)
+  - [Lighthouse tool](#lighthouse-tool)
+  - [Wave Validation](#wave-validation)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Media and Content](#media-and-content)
 
 ## Project Goal
 
@@ -45,7 +47,7 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 
 ## User Experience (UX) Development
 
-### New User:
+### New User
 
 - #### Easy Navigation: 
 I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
@@ -62,7 +64,7 @@ I'm excited to sign up and receive updates about new chocolate creations, limite
 - #### Connect on Social Media: 
 I wish to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
   
-### Returning Users:
+### Returning Users
 
 - #### Discover Chocolates: 
 Learn about a variety of delicious chocolates crafted with love by the grandma.
@@ -70,7 +72,7 @@ Learn about a variety of delicious chocolates crafted with love by the grandma.
 - #### Contact Us: 
 Easily get in touch with the chocolate grandma for any questions or feedback.
   
-### Target Audience:
+### Target Audience
 
 This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 
@@ -125,11 +127,11 @@ The website layout features a header with the logo and navigation menu. It compr
 
 The wireframe was made using a tool called Balsamiq. This tool helped create an early look at the website before actually building it. This made it easier to organize how things would look and where pictures and content would go. It also helped make sure everything looks nice on different devices like phones and computers.
 
-(Add image dasktop)
+![Desktop Wireframe](assets/readme-images/desktop-wireframe.png)
 
-(Add image tablet)
+![Tablet Wireframe](assets/readme-images/tablet-wireframe.png)
 
-(add image mobile)
+![Mobile Wireframe](assets/readme-images/mobile-index.pngt)
 
 
 ## Features
@@ -233,17 +235,17 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 
 We used Lighthouse in DevTools to assess and optimize the performance, accessibility, best practices, SEO, and Progressive Web App (PWA) aspects of a web page.
 
-- **Dasktop - Index.html**
+- **Desktop - Index.html**
   
-![Dasktop index.html](assets/readme-images/dasktop-index.png)
+![Desktop index.html](assets/readme-images/desktop-index.png)
 
 - **Mobile - Index.html**
 
 ![Mobile index.html](assets/readme-images/mobile-index.png)
 
-- **Dasktop - thank-you.html**
+- **Desktop - thank-you.html**
   
-![Dasktop thank-you.html](assets/readme-images/thank-you.png)
+![Desktop thank-you.html](assets/readme-images/thank-you.png)
 
 - **Mobile - thank-you.html**
 
