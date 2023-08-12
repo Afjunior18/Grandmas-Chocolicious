@@ -44,7 +44,7 @@
 
 ## Project Goal
 
-In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. I want to impress with a responsive design a user experience. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
+In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 
 ## User Experience (UX) Development
 
