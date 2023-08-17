@@ -54,11 +54,17 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 - #### Easy Navigation: 
 As a New user I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
 
+**Testing**: The website comprises three sections that are easy to access through our top navigation menu located at the top of the page.
+
 - #### Sign Up for Sweet Surprises: 
 As a New user I want to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
-  
+
+**Testing**: In the "Contact" section, there's a form for new users. By filling out this form, users receive a 20% discount and also subscribe to our newsletters, where they'll receive updates about our products.
+
 - #### Connect on Social Media: 
 As a New user I want to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
+
+**Testing**: You can find all our social media links in the footer at the bottom of the page. Simply click on the links to be directed to your desired social media platform.
   
 ### Returning Users
 
