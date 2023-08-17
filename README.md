@@ -1,48 +1,44 @@
-# Grandma’s Chocolicious
+## Grandma’s Chocolicious
 
 ![Responsiveness](assets/readme-images/screens.png)
 
-### Description
+"**Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.”
 
-"Welcome to **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.”
-
-[**Live Website:**](https://afjunior18.github.io/Grandmas-Chocolicious/)
+[**Live Website: Grandmas-Chocolicious**](https://afjunior18.github.io/Grandmas-Chocolicious/)
 
 ## Content
-
 - [Grandma’s Chocolicious](#grandmas-chocolicious)
-    - [Description](#description)
-  - [Content](#content)
-  - [Project Goal](#project-goal)
-  - [User Experience (UX) Development](#user-experience-ux-development)
-    - [New User](#new-user)
-    - [Returning Users](#returning-users)
-    - [Target Audience](#target-audience)
-  - [Design choices](#design-choices)
-    - [Typography](#typography)
-    - [Colour Scheme](#colour-scheme)
-    - [Imagery](#imagery)
-    - [Site layout](#site-layout)
-    - [Wireframe](#wireframe)
-  - [Features](#features)
-    - [Home Page](#home-page)
-    - [Header](#header)
-    - [Our Product section](#our-product-section)
-    - [Contact Section](#contact-section)
-    - [Footer](#footer)
-    - [Thank You Page](#thank-you-page)
-    - [Favicon](#favicon)
-  - [Technologies Used](#technologies-used)
-    - [Languages Used](#languages-used)
-    - [Framework, Libraries and Programs](#framework-libraries-and-programs)
-  - [Testing](#testing)
-    - [HTML Validation](#html-validation)
-    - [CSS Validation](#css-validation)
-    - [Lighthouse tool](#lighthouse-tool)
-    - [Wave Validation](#wave-validation)
-  - [Deployment](#deployment)
-  - [Credits](#credits)
-  - [Media and Content](#media-and-content)
+- [Content](#content)
+- [Project Goal](#project-goal)
+- [User Experience (UX) Development](#user-experience-ux-development)
+  - [New User](#new-user)
+  - [Returning Users](#returning-users)
+  - [Target Audience](#target-audience)
+- [Design choices](#design-choices)
+  - [Typography](#typography)
+  - [Colour Scheme](#colour-scheme)
+  - [Imagery](#imagery)
+  - [Site layout](#site-layout)
+  - [Wireframe](#wireframe)
+- [Features](#features)
+  - [Home Page](#home-page)
+  - [Header](#header)
+  - [Our Product section](#our-product-section)
+  - [Contact Section](#contact-section)
+  - [Footer](#footer)
+  - [Thank You Page](#thank-you-page)
+  - [Favicon](#favicon)
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Framework, Libraries and Programs](#framework-libraries-and-programs)
+- [Testing](#testing)
+  - [HTML Validation](#html-validation)
+  - [CSS Validation](#css-validation)
+  - [Lighthouse tool](#lighthouse-tool)
+  - [Wave Validation](#wave-validation)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Media and Content](#media-and-content)
 
 ## Project Goal
 
