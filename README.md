@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+
 - [Grandma’s Chocolicious](#grandmas-chocolicious)
   - [Description](#description)
 - [Table of Contents](#table-of-contents)
@@ -51,19 +52,20 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 ### New User
 
 - #### Easy Navigation: 
-I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
-  
-- #### Online Chocolate Experience: 
-I'm eager to enjoy the delectable chocolates online through a seamless and delightful virtual experience.
-  
-- #### Discover More:
-I want to know more about the grandmother's love for chocolates, her unique recipes, and the story behind her passion.
-  
+As a New user I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
+
+    - The website comprises three sections that are easy to access through our top navigation menu located at the top and right of the page.
+
 - #### Sign Up for Sweet Surprises: 
-I'm excited to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
+As a New user I want to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
+
+    - In the "Contact" section, there's a form for new users. By filling out this form, users receive a 20% discount and also subscribe to our newsletters, where they'll receive updates about our products.
   
 - #### Connect on Social Media: 
-I wish to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
+As a New user I want to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
+
+    - You can find all our social media links in the footer at the bottom of the page. Simply click on the links to be directed to your desired social media platform.
+
   
 ### Returning Users
 
