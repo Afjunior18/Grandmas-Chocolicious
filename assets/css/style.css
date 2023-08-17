@@ -377,7 +377,7 @@ div h3 {
 }
 
 .form-input {
-    background-color: rgba(237, 222, 207, 0.5);
+    background-color: #fff;
     box-shadow: 0 0 10px #8d4925;
     height: 25px;
     width: 300px;
