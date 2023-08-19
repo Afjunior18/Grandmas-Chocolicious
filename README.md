@@ -1,19 +1,24 @@
 ## Grandma’s Chocolicious
 
-![Responsiveness](readme-pic/screens.png)
+**Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.
+Inspired by the deep love a grandmother holds for chocolates and the passion she pours into her craft, our website comes to life. Come share in the sweetness of flavors and memories she creates with love.
 
-"**Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.”
+**Target Audience**
+This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
+
+**Project Goal**
+In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
+
+![Responsiveness](docs/screens.png)
 
 [**Live Website: Grandmas-Chocolicious**](https://afjunior18.github.io/Grandmas-Chocolicious/)
 
 ## Content
 - [Grandma’s Chocolicious](#grandmas-chocolicious)
 - [Content](#content)
-- [Project Goal](#project-goal)
 - [User Experience (UX) Development](#user-experience-ux-development)
   - [New User](#new-user)
   - [Returning Users](#returning-users)
-  - [Target Audience](#target-audience)
 - [Design choices](#design-choices)
   - [Typography](#typography)
   - [Colour Scheme](#colour-scheme)
@@ -39,10 +44,6 @@
 - [Deployment](#deployment)
 - [Credits](#credits)
 - [Media and Content](#media-and-content)
-
-## Project Goal
-
-In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 
 ## User Experience (UX) Development
 
@@ -75,10 +76,6 @@ Learn about a variety of delicious chocolates crafted with love by the grandma.
 - #### Contact Us: 
 Easily get in touch with the chocolate grandma for any questions or feedback.
   
-### Target Audience
-
-This website is for all chocolate enthusiasts, especially those who adore homemade chocolates made with love by a passionate grandmother. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
-
 ## Design choices
 
 ### Typography
@@ -265,25 +262,25 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 
 ## Deployment
 
-1.**GitHub Account:** Create on account at github.com. The platform is free.
+1. **GitHub Account:** Create on account at github.com. The platform is free.
 
-2.**Create Repository:** To start, you'll need a repository to host your website. Click the "+" button on the main page, then "New Repository."
+2. **Create Repository:** To start, you'll need a repository to host your website. Click the "+" button on the main page, then "New Repository."
 
-3.**Repository Details:** Name, describe, and set it as public.
+3. **Repository Details:** Name, describe, and set it as public.
 
-4.**Settings:** Access repository settings.
+4. **Settings:** Access repository settings.
 
-5.**GitHub Pages:** Find this section in settings.
+5. **GitHub Pages:** Find this section in settings.
 
-6.**Choose Branch:** Select "main" branch for deployment.
+6. **Choose Branch:** Select "main" branch for deployment.
 
-7.**Save:** Save settings to initiate deployment.
+7. **Save:** Save settings to initiate deployment.
 
-8.**Deployment Complete:** Wait for the deployment message.
+8. **Deployment Complete:** Wait for the deployment message.
 
-9.**Access Site:** Get the link to your deployed site.
+9. **Access Site:** Get the link to your deployed site.
 
-10.**Share:** Share the link with others.
+10. **Share:** Share the link with others.
 
 Explore Deployed Website: Navigate to the live site by clicking on the following link:
 https://afjunior18.github.io/Grandmas-Chocolicious/index.html
