@@ -88,17 +88,14 @@ nav {
     text-decoration: underline;
 }
 
-
 #menu>li {
     padding-left: 3rem;
     padding-bottom: 0.3rem;
 }
 
-
 #menu a:hover {
     opacity: 0.7;
 }
-
 
 /* Hero image and text section */
 
@@ -137,14 +134,12 @@ nav {
     padding-top: 10px;
     width: 33%;
     float: left;
-
 }
 
 #content-right {
     padding-top: 10px;
     width: 33%;
     float: right;
-
 }
 
 #content-center {
@@ -153,8 +148,6 @@ nav {
     margin: 0 auto;
     float: left;
 }
-
-
 
 /* Center content - hover efect */
 
@@ -194,8 +187,6 @@ nav {
 .card-box:hover .card-hover {
     opacity: 1;
 }
-
-
 
 /* Our Product Section*/
 
@@ -473,16 +464,6 @@ h2 {
     }
 }
 
-/* For sreeen sizes from 2560px wide and down */
-
-@media screen and (max-width:2560px) {
-
-    /* .image-container {
-        height: 100%;
-    } */
-
-}
-
 /* For sreeen sizes from 2385px wide and down */
 
 @media screen and (max-width: 2385px) {
@@ -549,7 +530,6 @@ h2 {
         align-content: center;
         justify-content: center;
         align-items: center;
-
     }
 
     .title-product h2,
@@ -592,7 +572,6 @@ h2 {
     #product-container {
         column-gap: 90px;
     }
-
 }
 
 /* For sreeen sizes from 1025px wide and down */
@@ -623,7 +602,6 @@ h2 {
     #content-box {
         height: 540px;
     }
-
 }
 
 /* For sreeen sizes from 970px wide and down */
@@ -634,7 +612,6 @@ h2 {
 
     #content-box {
         height: 500px;
-
     }
 
     /* Our product section */
@@ -652,7 +629,6 @@ h2 {
     #about-us-letter {
         height: 650px;
     }
-
 }
 
 /* For sreeen sizes from 921px wide and down */
@@ -712,7 +688,6 @@ h2 {
         width: 75%;
         height: 450px;
         margin: 50px auto;
-
     }
 
     .image-container img {
@@ -828,7 +803,6 @@ h2 {
     #contact-container {
         height: 1300px;
         flex-direction: column;
-
     }
 
     #contact-location {
@@ -845,7 +819,6 @@ h2 {
         height: 850px;
         width: 70%;
     }
-
 }
 
 /* For sreeen sizes from 650px wide and down */
@@ -859,7 +832,6 @@ h2 {
     #content-box {
         height: 330px;
     }
-
 }
 
 /* For sreeen sizes from 629px wide and down */
@@ -871,7 +843,6 @@ h2 {
     #menu>li {
         padding-left: 3rem;
     }
-
 }
 
 /* For sreeen sizes from 550px wide and down */
@@ -965,7 +936,6 @@ h2 {
     #hero-text {
         height: 25px;
         top: 90%;
-
     }
 
     #hero-image {
@@ -986,7 +956,6 @@ h2 {
     .logo {
         font-size: 220%;
     }
-
 }
 
 /* For sreeen sizes from 375px wide and down */
@@ -1042,9 +1011,7 @@ h2 {
     #brownie,
     #brigadeiro {
         width: 80%;
-
     }
-
 }
 
 /* For sreeen sizes from 350px wide and down */
@@ -1055,7 +1022,6 @@ h2 {
 
     #content-box {
         height: 200px;
-
     }
 
     /* About us section */
@@ -1105,7 +1071,6 @@ h2 {
 
     #content-box {
         height: 180px;
-
     }
 
     /* Our product section */
