@@ -1,17 +1,18 @@
 ## Grandma’s Chocolicious
 
 <p align =justify>
-    **Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.
+    <strong>Grandma's Chocolicious<strong>, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion <strong>by a passionate grandmother</strong>.
     Inspired by the deep love a grandmother holds for chocolates and the passion she pours into her craft, our website comes to life.
 </p>
 <p align =justify>
-    **Target Audience**
+    <strong>Target Audience</strong>
     This website is for all chocolate enthusiasts, especially those who adore homemade chocolates. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 </p>
 <p align =justify>
-    **Project Goal**
+    <strong>Project Goal</strong>
     In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 </p>
+
 ![Responsiveness](docs/screens.png)
 
 [**Live Website: Grandmas-Chocolicious**](https://afjunior18.github.io/Grandmas-Chocolicious/)
