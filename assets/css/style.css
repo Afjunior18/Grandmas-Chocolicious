@@ -452,7 +452,6 @@ h2 {
     text-decoration: none;
 }
 
-
 /* Media query Section */
 
 /* For sreeen sizes from 4000px wide and down */
@@ -1138,7 +1137,6 @@ h2 {
 /* For sreeen sizes from 280px wide and down */
 
 @media screen and (max-width:280px) {
-
 
     /* Hero image and text section */
 
