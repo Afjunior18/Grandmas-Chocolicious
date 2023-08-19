@@ -709,8 +709,8 @@ h2 {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 80%;
-        height: 430px;
+        width: 75%;
+        height: 450px;
         margin: 50px auto;
 
     }
@@ -936,7 +936,7 @@ h2 {
     #cake,
     #brownie,
     #brigadeiro {
-        width: 60%;
+        width: 80%;
         margin: 50px auto;
     }
 
@@ -1121,7 +1121,7 @@ h2 {
     }
 
     #product-container {
-        height: 1720px;
+        height: 1950px;
     }
 
     #product-container p {
