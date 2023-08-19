@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Dancing+Script:wght@700&family=Roboto:wght@500&display=swap');
 
-
 /* Removing default margins, paddings and borders */
 
 * {
@@ -465,13 +464,22 @@ h2 {
 
 /* Media query Section */
 
+/* For sreeen sizes from 4000px wide and down */
+
+@media screen and (max-width:4000px) {
+
+    #content-box {
+        height: 1250px;
+    }
+}
+
 /* For sreeen sizes from 2560px wide and down */
 
 @media screen and (max-width:2560px) {
 
-    .image-container {
+    /* .image-container {
         height: 100%;
-    }
+    } */
 
 }
 
