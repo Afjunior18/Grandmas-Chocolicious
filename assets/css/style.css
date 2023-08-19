@@ -483,6 +483,51 @@ h2 {
 
 }
 
+/* For sreeen sizes from 2385px wide and down */
+
+@media screen and (max-width: 2385px) {
+
+    #content-box {
+        height: 1100px;
+    }
+}
+
+/* For sreeen sizes from 2100px wide and down */
+
+@media screen and (max-width: 2100px) {
+
+    #content-box {
+        height: 950px;
+    }
+}
+
+/* For sreeen sizes from 1800px wide and down */
+
+@media screen and (max-width: 1800px) {
+
+    #content-box {
+        height: 750px;
+    }
+}
+
+/* For sreeen sizes from 1450px wide and down */
+
+@media screen and (max-width: 1450px) {
+
+    #content-box {
+        height: 650px;
+    }
+}
+
+/* For sreeen sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+    #content-box {
+        height: 550px;
+    }
+}
+
 /* For sreeen sizes from 1150px wide and down */
 
 @media screen and (max-width:1150px) {
