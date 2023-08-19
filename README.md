@@ -5,12 +5,10 @@
     Inspired by the deep love a grandmother holds for chocolates and the passion she pours into her craft, our website comes to life.
 </p>
 <p align =justify>
-    Target Audience
-    This website is for all chocolate enthusiasts, especially those who adore homemade chocolates. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
+    Target Audience: This website is for all chocolate enthusiasts, especially those who adore homemade chocolates. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 </p>
 <p align =justify>
-    Project Goal
-    In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
+    Project Goal: In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 </p>
 
 ![Responsiveness](docs/screens.png)
