@@ -702,14 +702,15 @@ h2 {
 
     #product-container {
         display: block;
-        height: 1800px;
+        height: 2000px;
     }
 
     #cupcake,
     #cake,
     #brownie,
     #brigadeiro {
-        width: 45%;
+        width: 80%;
+        height: 430px;
         margin: 50px auto;
 
     }
