@@ -1,6 +1,6 @@
 ## Grandma’s Chocolicious
 
-![Responsiveness](assets/readme-images/screens.png)
+![Responsiveness](readme-pic/screens.png)
 
 "**Grandma's Chocolicious**, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion **by a passionate grandmother**.”
 
@@ -52,20 +52,20 @@ In simple terms, my goal is to show my skills in using HTML and CSS to create a 
 As a New user I want to explore the website effortlessly and quickly find information about the grandmother's delightful chocolates and treats.
 
 **Testing**: The website comprises three sections that are easy to access through our top navigation menu located at the top of the page.
-![Header](assets/readme-images/header-features.png)
+![Header](docs/header-features.png)
 
 - #### Sign Up for Sweet Surprises: 
 As a New user I want to sign up and receive updates about new chocolate creations, limited editions, and special discounts.
 
 **Testing**: In the "Contact" section, there's a form for new users. By filling out this form, users receive a 20% discount and also subscribe to our newsletters, where they'll receive updates about our products.
-![Contact Section](assets/readme-images/contact-features.png)
+![Contact Section](docs/contact-features.png)
 
 
 - #### Connect on Social Media: 
 As a New user I want to connect with the website's social media platforms to stay updated on the latest chocolate surprises and events.
 
 **Testing**: You can find all our social media links in the footer at the bottom of the page. Simply click on the links to be directed to your desired social media platform.
-![Footer](assets/readme-images/footer-features.png)
+![Footer](docs/footer-features.png)
   
 ### Returning Users
 
@@ -86,15 +86,14 @@ This website is for all chocolate enthusiasts, especially those who adore homema
 - #### Headings: 
 The font type chosen was: font-family: 'Dancing Script', cursive, sans-serif;
   
-
-![Font headings](assets/readme-images/font01.png)
+![Font headings](docs/font01.png)
 
 
 - #### Body: 
 The font type selected was: font-family: 'Barlow Condensed', sans-serif;
   
 
-![Font body](assets/readme-images/font02.png)
+![Font body](docs/font02.png)
 
 
 Both styles through https://fonts.google.com
@@ -130,15 +129,15 @@ The website layout features a header with the logo and navigation menu. It compr
 The wireframe was made using a tool called Balsamiq. This tool helped create an early look at the website before actually building it. This made it easier to organize how things would look and where pictures and content would go. It also helped make sure everything looks nice on different devices like phones and computers.
 
 - **Desktop - Wireframe**
-![Desktop Wireframe](assets/readme-images/desktop-wireframe.png)
+![Desktop Wireframe](docs/desktop-wireframe.png)
 
 - **Tablet - Wireframe**
 
-![Tablet Wireframe](assets/readme-images/tablet-wireframe.png)
+![Tablet Wireframe](docs/tablet-wireframe.png)
 
 - **Mobile - Wireframe**
 
-![Mobile Wireframe](assets/readme-images/mobile-wireframe.png)
+![Mobile Wireframe](docs/mobile-wireframe.png)
 
 
 ## Features
@@ -147,42 +146,42 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 - Crafted with product photos to captivate customer attention and create an engaging user experience.
   
 
-![Home page](assets/readme-images/home-page-features.png)
+![Home page](docs/home-page-features.png)
 
 
 ### Header
 - Includes a logo and links for easy navigation on the website.
   
 
-![Header](assets/readme-images/header-features.png)
+![Header](docs/header-features.png)
 
 
 ### Our Product section
 - Where you'll find photos and descriptions of the products we offer.
 
 
-![Our Product Section](assets/readme-images/our-product-section.png)
+![Our Product Section](docs/our-product-section.png)
 
 
 ### Contact Section
 - Here, you'll discover a map showing our location, as well as a form for signing up to get a 20% discount and receive email updates.
   
 
-![Contact Section](assets/readme-images/contact-features.png)
+![Contact Section](docs/contact-features.png)
 
 
 ### Footer
 - Links to all our social media accounts like Instagram, YouTube, and Twitter.
   
 
-![Footer](assets/readme-images/footer-features.png)
+![Footer](docs/footer-features.png)
 
 
 ### Thank You Page
 - A message thanking you for signing up and visiting our website.
 
 
-![Thank you page](assets/readme-images/thank-you-features.png)
+![Thank you page](docs/thank-you-features.png)
 
 
 ### Favicon
@@ -230,13 +229,13 @@ The wireframe was made using a tool called Balsamiq. This tool helped create an 
 ### HTML Validation
 - <https://validator.w3.org/>
 
-![HTML Validation](assets/readme-images/html-validation.png)
+![HTML Validation](docs/html-validation.png)
 
 
 ### CSS Validation 
 - <https://jigsaw.w3.org/css-validator/>
 
-![CSS Validation](assets/readme-images/css-validation.png)
+![CSS Validation](docs/css-validation.png)
 
 ### Lighthouse tool
 
@@ -244,47 +243,47 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 
 - **Desktop - Index.html**
   
-![Desktop index.html](assets/readme-images/desktop-index.png)
+![Desktop index.html](docs/desktop-index.png)
 
 - **Mobile - Index.html**
 
-![Mobile index.html](assets/readme-images/mobile-index.png)
+![Mobile index.html](docs/mobile-index.png)
 
 - **Desktop - thank-you.html**
   
-![Desktop thank-you.html](assets/readme-images/thank-you.png)
+![Desktop thank-you.html](docs/thank-you.png)
 
 - **Mobile - thank-you.html**
 
-![Mobile thank-you.html](assets/readme-images/thank-you-mobile.png)
+![Mobile thank-you.html](docs/thank-you-mobile.png)
 
 ### Wave Validation
 
 - I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
 
-![Wave Validation](assets/readme-images/wave-validation.png)
+![Wave Validation](docs/wave-validation.png)
 
 ## Deployment
 
-**GitHub Account:** Create on account at github.com. The platform is free.
+1.**GitHub Account:** Create on account at github.com. The platform is free.
 
-**Create Repository:** To start, you'll need a repository to host your website. Click the "+" button on the main page, then "New Repository."
+2.**Create Repository:** To start, you'll need a repository to host your website. Click the "+" button on the main page, then "New Repository."
 
-**Repository Details:** Name, describe, and set it as public.
+3.**Repository Details:** Name, describe, and set it as public.
 
-**Settings:** Access repository settings.
+4.**Settings:** Access repository settings.
 
-**GitHub Pages:** Find this section in settings.
+5.**GitHub Pages:** Find this section in settings.
 
- **Choose Branch:** Select "main" branch for deployment.
+6.**Choose Branch:** Select "main" branch for deployment.
 
-**Save:** Save settings to initiate deployment.
+7.**Save:** Save settings to initiate deployment.
 
-**Deployment Complete:** Wait for the deployment message.
+8.**Deployment Complete:** Wait for the deployment message.
 
-**Access Site:** Get the link to your deployed site.
+9.**Access Site:** Get the link to your deployed site.
 
-**Share:** Share the link with others.
+10.**Share:** Share the link with others.
 
 Explore Deployed Website: Navigate to the live site by clicking on the following link:
 https://afjunior18.github.io/Grandmas-Chocolicious/index.html
@@ -299,18 +298,18 @@ To everyone in the Slack community, who directly or indirectly contributed in an
 
 ## Media and Content
 
-**Images**
+- **Images**
 
 All images used in this project were sourced from [Pexels](https://www.pexels.com/), a platform for free-to-use high-quality images.
 
-**Icons**
+- **Icons**
 
 Icons used throughout the site are from [Font Awesome](https://fontawesome.com/), a comprehensive library of icons and symbols.
 
-**Fonts**
+- **Fonts**
 
 The font styles for this website were selected from [Google Fonts](https://fonts.google.com/), a collection of web-friendly fonts.
 
-**Tools**
+- **Tools**
 
 The development process was facilitated by tools such as [Balsamiq](https://www.balsamiq.com/) for wireframing, [GitHub](https://github.com/) for version control, and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) for testing and debugging.
