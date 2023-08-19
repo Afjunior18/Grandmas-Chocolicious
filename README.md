@@ -1,15 +1,15 @@
 ## Grandma’s Chocolicious
 
 <p align =justify>
-    <strong>Grandma's Chocolicious<strong>, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion <strong>by a passionate grandmother</strong>.
+    Grandma's Chocolicious, a website made with love for chocolate lovers! Explore a world of irresistible homemade chocolates, handcrafted with care and devotion by a passionate grandmother.
     Inspired by the deep love a grandmother holds for chocolates and the passion she pours into her craft, our website comes to life.
 </p>
 <p align =justify>
-    <strong>Target Audience</strong>
+    Target Audience
     This website is for all chocolate enthusiasts, especially those who adore homemade chocolates. It welcomes people of all ages who appreciate the art of chocolate-making and the joy of savoring delightful treats.
 </p>
 <p align =justify>
-    <strong>Project Goal</strong>
+    Project Goal
     In simple terms, my goal is to show my skills in using HTML and CSS to create a website that looks great on any device. The website will be a sweet and delightful place that reflects the passion of a grandmother for chocolates.
 </p>
 
@@ -45,6 +45,7 @@
   - [CSS Validation](#css-validation)
   - [Lighthouse tool](#lighthouse-tool)
   - [Wave Validation](#wave-validation)
+- [Debug and Issues](#debug-and-issues)
 - [Deployment](#deployment)
 - [Credits](#credits)
 - [Media and Content](#media-and-content)
@@ -263,6 +264,27 @@ We used Lighthouse in DevTools to assess and optimize the performance, accessibi
 - I used the WAVE (Web Accessibility Evaluation Tool) validation to ensure that our website adheres to accessibility standards and guidelines.
 
 ![Wave Validation](docs/wave-validation.png)
+
+## Debug and Issues
+
+- Unfixed bug: None
+  
+- Debugging: The image wasn't focused on screens larger than 2500px. The correction included adjusting the image resizing and modifying directly applied properties. The solution was to create a media query for screens from 4000px downwards and assign specific properties to enhance responsiveness. The primary modification involved increasing the height of the relevant container.
+
+**Bug**
+![Bug](docs/bug01.png)
+
+**Fixed bug**
+![debug](docs/bug-01-fix.png)
+
+- Debugging: Performance optimization was a challenge for both desktop and mobile versions in the initial testing phase. Mobile performance was below 80, while desktop performance was below 90.
+Upon investigation, it was found that images were taking a significant amount of time to load, directly impacting overall performance. To address this issue, image compression and format changes were implemented. As a result, performance improved in both mobile and desktop testing scenarios. Another factor affecting performance was an iframe containing the location map. To address this, alterations were made to the map's dimensions, and the "loading" attribute was set to "lazy." These changes yielded performance improvements.
+
+**Issue**
+![low performance](docs/bug-performance.png)
+
+**After steps debugging above**
+![improved performance](docs/mobile-index.png)
 
 ## Deployment
 
